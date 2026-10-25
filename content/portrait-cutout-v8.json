@@ -1,0 +1,11 @@
+{
+  "originalUpload": "image(20261025-134906).png",
+  "sourceCopy": "/images/portraits/source-upload-v8.png",
+  "webAsset": "/images/portraits/ercan-kocakoc-transparent.webp",
+  "size": [
+    720,
+    1033
+  ],
+  "alpha": true,
+  "processing": "Background removal using image editing; transparent-margin trim and WebP optimization for the hero. Original upload retained."
+}

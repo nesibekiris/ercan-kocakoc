@@ -766,7 +766,7 @@ export const defaultSettings:Settings = {
   "seoDescription": "Prof. Dr. Ercan Kocakoç: İstanbul’da girişimsel ve abdominal radyoloji, görüntüleme eşliğinde biyopsi, ultrason ve ikinci uzman görüşü. İletişim bilgileri.",
   "siteUrl": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site",
   "indexing": false,
-  "portrait": "/images/original/h-2.webp",
+  "portrait": "/images/portraits/ercan-kocakoc-transparent.webp",
   "instagram": "https://www.instagram.com/drercankocakoc/",
   "youtube": "https://www.youtube.com/channel/UCsvc0Tz1bo5yRwj4GoQshjA",
   "facebook": "https://www.facebook.com/profdrercankocakoc"
