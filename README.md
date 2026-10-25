@@ -13,6 +13,7 @@ Bu depo uygulama kaynak kodunu, yönetim panelini, içerikleri, görselleri, ver
 - 240 bağlantılı yayın, 6 tez, 15 YouTube videosu ve 36 görsel galeri kaydı.
 - 75 konferans/seminer ve 7 panel/eğitim kaydı; kaynak metinleri eksiltilmeden yıllara göre sunulur.
 - 27 yazı için aynı renk ve çizgi dilinde, konuya özel vektör kapaklar.
+- 15 video için 1280×720 JPEG kapaklar ve düzenlenebilir SVG kaynaklar; tam video başlıkları ve bağlantılar korunur.
 - Eski sitenin 45 görseli ve kullanıcının yüklediği 17 fotoğraf korunur. Stok görsellerin kaynak ve lisans kayıtları content/licensed-images-v5.json içindedir.
 
 app/lib/seed.ts ilk sayfa içeriklerini, app/lib/archive-seed.ts yayın/tez/video/galeri kayıtlarını içerir. Panelde kaydedilen değerler D1'de saklanır ve başlangıç verilerinin önüne geçer. Akademik katkıların veri kaynağı content/academic-contributions.json, kullanıcının sağladığı eksiksiz metin content/academic-contributions-source.md dosyasıdır. Atıf sayıları özgeçmişte bildirilen tarihsel verilerdir; canlı bibliyometrik ölçüm değildir.
@@ -39,6 +40,7 @@ Yerel D1 şeması drizzle/0000_tearful_barracuda.sql dosyasındadır. Vite yerel
 pnpm build
 node node_modules/typescript/bin/tsc --noEmit
 node scripts/checks/verify-content.mjs
+node scripts/checks/audit-visual-v7.mjs
 node scripts/checks/verify-worker.mjs
 node scripts/checks/audit-seo.mjs
 ```

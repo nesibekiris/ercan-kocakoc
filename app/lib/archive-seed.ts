@@ -6,9 +6,9 @@ export const defaultArchive:Archive = {
       "title": "Tümör Ablasyon tedavisi nedir ? (RF ablasyon, mikrodalga ablasyon)",
       "titleEn": "Tümör Ablasyon tedavisi nedir ? (RF ablasyon, mikrodalga ablasyon)",
       "url": "https://www.youtube.com/watch?v=BV3nDCJdBDY",
-      "thumbnail": "/images/videos/BV3nDCJdBDY.jpg",
+      "thumbnail": "/images/video-covers/BV3nDCJdBDY.jpg",
       "description": "Prof.Dr.Ercan Kocakoç · YouTube",
-      "category": "YouTube",
+      "category": "Girişimsel tedaviler",
       "status": "published"
     },
     {
@@ -16,9 +16,9 @@ export const defaultArchive:Archive = {
       "title": "Miyom embolizasyonu nedir ?",
       "titleEn": "Miyom embolizasyonu nedir ?",
       "url": "https://www.youtube.com/watch?v=M-rNAfF35W8",
-      "thumbnail": "/images/videos/M-rNAfF35W8.jpg",
+      "thumbnail": "/images/video-covers/M-rNAfF35W8.jpg",
       "description": "Prof.Dr.Ercan Kocakoç · YouTube",
-      "category": "YouTube",
+      "category": "Girişimsel tedaviler",
       "status": "published"
     },
     {
@@ -26,9 +26,9 @@ export const defaultArchive:Archive = {
       "title": "PROF. DR. ERCAN KOCAKOÇ",
       "titleEn": "PROF. DR. ERCAN KOCAKOÇ",
       "url": "https://www.youtube.com/watch?v=snUnd3uf-mI",
-      "thumbnail": "/images/videos/snUnd3uf-mI.jpg",
+      "thumbnail": "/images/video-covers/snUnd3uf-mI.jpg",
       "description": "Medico TV - Türkiye · YouTube",
-      "category": "YouTube",
+      "category": "Söyleşi",
       "status": "published"
     },
     {
@@ -36,9 +36,9 @@ export const defaultArchive:Archive = {
       "title": "TAKE (transarteriyal kemoembolizasyon) nedir? Nasıl yapılır?",
       "titleEn": "TAKE (transarteriyal kemoembolizasyon) nedir? Nasıl yapılır?",
       "url": "https://www.youtube.com/watch?v=oukB8wqUnGA",
-      "thumbnail": "/images/videos/oukB8wqUnGA.jpg",
+      "thumbnail": "/images/video-covers/oukB8wqUnGA.jpg",
       "description": "Prof.Dr.Ercan Kocakoç · YouTube",
-      "category": "YouTube",
+      "category": "Girişimsel tedaviler",
       "status": "published"
     },
     {
@@ -46,9 +46,9 @@ export const defaultArchive:Archive = {
       "title": "Girişimsel Radyoloji Nedir?",
       "titleEn": "Girişimsel Radyoloji Nedir?",
       "url": "https://www.youtube.com/watch?v=XcmZVLOTQIs",
-      "thumbnail": "/images/videos/XcmZVLOTQIs.jpg",
+      "thumbnail": "/images/video-covers/XcmZVLOTQIs.jpg",
       "description": "Prof.Dr.Ercan Kocakoç · YouTube",
-      "category": "YouTube",
+      "category": "Radyoloji",
       "status": "published"
     },
     {
@@ -56,9 +56,9 @@ export const defaultArchive:Archive = {
       "title": "KAPALI MİYOM TEDAVİSİ NASIL UYGULANIR? DR. ERCAN KOCAKOÇ ANLATIYOR",
       "titleEn": "KAPALI MİYOM TEDAVİSİ NASIL UYGULANIR? DR. ERCAN KOCAKOÇ ANLATIYOR",
       "url": "https://www.youtube.com/watch?v=wWxUEdUHtcE",
-      "thumbnail": "/images/videos/wWxUEdUHtcE.jpg",
+      "thumbnail": "/images/video-covers/wWxUEdUHtcE.jpg",
       "description": "Woman TV · YouTube",
-      "category": "YouTube",
+      "category": "Söyleşi",
       "status": "published"
     },
     {
@@ -66,9 +66,9 @@ export const defaultArchive:Archive = {
       "title": "Dr. Ercan Kocakoç | Prostat Füzyon Biyopsi",
       "titleEn": "Dr. Ercan Kocakoç | Prostat Füzyon Biyopsi",
       "url": "https://www.youtube.com/watch?v=z1Qntrc_4ac",
-      "thumbnail": "/images/videos/z1Qntrc_4ac.jpg",
+      "thumbnail": "/images/video-covers/z1Qntrc_4ac.jpg",
       "description": "Saruhan Web · YouTube",
-      "category": "YouTube",
+      "category": "Biyopsi",
       "status": "published"
     },
     {
@@ -76,9 +76,9 @@ export const defaultArchive:Archive = {
       "title": "Prof. Dr.  Ercan Kocakoç | Biyopsi",
       "titleEn": "Prof. Dr.  Ercan Kocakoç | Biyopsi",
       "url": "https://www.youtube.com/watch?v=ThwQSg278X0",
-      "thumbnail": "/images/videos/ThwQSg278X0.jpg",
+      "thumbnail": "/images/video-covers/ThwQSg278X0.jpg",
       "description": "Saruhan Web · YouTube",
-      "category": "YouTube",
+      "category": "Biyopsi",
       "status": "published"
     },
     {
@@ -86,9 +86,9 @@ export const defaultArchive:Archive = {
       "title": "Prof. Dr. Ercan Kocakoç | Akciğer Biyopsisi",
       "titleEn": "Prof. Dr. Ercan Kocakoç | Akciğer Biyopsisi",
       "url": "https://www.youtube.com/watch?v=BDPGDgOGalg",
-      "thumbnail": "/images/videos/BDPGDgOGalg.jpg",
+      "thumbnail": "/images/video-covers/BDPGDgOGalg.jpg",
       "description": "Saruhan Web · YouTube",
-      "category": "YouTube",
+      "category": "Biyopsi",
       "status": "published"
     },
     {
@@ -96,9 +96,9 @@ export const defaultArchive:Archive = {
       "title": "Prof. Dr. Ercan Kocakoç | Lenf Nodu Biyopsisi",
       "titleEn": "Prof. Dr. Ercan Kocakoç | Lenf Nodu Biyopsisi",
       "url": "https://www.youtube.com/watch?v=ivrXSzDNpVk",
-      "thumbnail": "/images/videos/ivrXSzDNpVk.jpg",
+      "thumbnail": "/images/video-covers/ivrXSzDNpVk.jpg",
       "description": "Saruhan Web · YouTube",
-      "category": "YouTube",
+      "category": "Biyopsi",
       "status": "published"
     },
     {
@@ -106,9 +106,9 @@ export const defaultArchive:Archive = {
       "title": "Prof. Dr. Ercan Kocakoç | Tiroid Biyopsi",
       "titleEn": "Prof. Dr. Ercan Kocakoç | Tiroid Biyopsi",
       "url": "https://www.youtube.com/watch?v=UvUPTOXD1uQ",
-      "thumbnail": "/images/videos/UvUPTOXD1uQ.jpg",
+      "thumbnail": "/images/video-covers/UvUPTOXD1uQ.jpg",
       "description": "Saruhan Web · YouTube",
-      "category": "YouTube",
+      "category": "Biyopsi",
       "status": "published"
     },
     {
@@ -116,9 +116,9 @@ export const defaultArchive:Archive = {
       "title": "Prof. Dr. Ercan Kocakoç | Mikrodalga Ablasyon",
       "titleEn": "Prof. Dr. Ercan Kocakoç | Mikrodalga Ablasyon",
       "url": "https://www.youtube.com/watch?v=rG-F8sV4U3E",
-      "thumbnail": "/images/videos/rG-F8sV4U3E.jpg",
+      "thumbnail": "/images/video-covers/rG-F8sV4U3E.jpg",
       "description": "Saruhan Web · YouTube",
-      "category": "YouTube",
+      "category": "Girişimsel tedaviler",
       "status": "published"
     },
     {
@@ -126,9 +126,9 @@ export const defaultArchive:Archive = {
       "title": "BEN SAVAŞ KALAFAT l ERCAN KOCAKOÇ  KADINLARDA VE ERKEKLERDE GÖRÜLEN KANSER TÜRLERİ NELERDİR?",
       "titleEn": "BEN SAVAŞ KALAFAT l ERCAN KOCAKOÇ  KADINLARDA VE ERKEKLERDE GÖRÜLEN KANSER TÜRLERİ NELERDİR?",
       "url": "https://www.youtube.com/watch?v=b3LKpmqd9zA",
-      "thumbnail": "/images/videos/b3LKpmqd9zA.jpg",
+      "thumbnail": "/images/video-covers/b3LKpmqd9zA.jpg",
       "description": "Saruhan Web · YouTube",
-      "category": "YouTube",
+      "category": "Söyleşi",
       "status": "published"
     },
     {
@@ -136,9 +136,9 @@ export const defaultArchive:Archive = {
       "title": "Prof. Dr. Ercan Kocakoç | Karaciğer Tümörlerinin Tedavisinde TAKE ve TARE Yöntemleri",
       "titleEn": "Prof. Dr. Ercan Kocakoç | Karaciğer Tümörlerinin Tedavisinde TAKE ve TARE Yöntemleri",
       "url": "https://www.youtube.com/watch?v=CMmy3SpZ_W4",
-      "thumbnail": "/images/videos/CMmy3SpZ_W4.jpg",
+      "thumbnail": "/images/video-covers/CMmy3SpZ_W4.jpg",
       "description": "Saruhan Web · YouTube",
-      "category": "YouTube",
+      "category": "Girişimsel tedaviler",
       "status": "published"
     },
     {
@@ -146,9 +146,9 @@ export const defaultArchive:Archive = {
       "title": "Prof. Dr. Ercan Kocakoç |  RF ABLASYON",
       "titleEn": "Prof. Dr. Ercan Kocakoç |  RF ABLASYON",
       "url": "https://www.youtube.com/watch?v=jG9wz33S_ak",
-      "thumbnail": "/images/videos/jG9wz33S_ak.jpg",
+      "thumbnail": "/images/video-covers/jG9wz33S_ak.jpg",
       "description": "Saruhan Web · YouTube",
-      "category": "YouTube",
+      "category": "Girişimsel tedaviler",
       "status": "published"
     }
   ],

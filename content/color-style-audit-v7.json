@@ -1,0 +1,58 @@
+{
+  "updated": "2026-10-25",
+  "findingsResolved": [
+    "Six unrelated, muted ultrasound card tones replaced by the existing blue family and one controlled green accent.",
+    "Ultrasound, category, video, CTA and academic accents now share the public brand palette.",
+    "Georgia headings and Arial body typography retained; no unrelated display font added to public pages.",
+    "15 image covers share one composition, readable topic headlines and related line illustrations.",
+    "Video cards use 16:9 without center play icons obscuring the cover headline."
+  ],
+  "videoCovers": 15,
+  "originalVideoTitlesAndUrlsPreserved": true,
+  "originalThumbnailsPreserved": true,
+  "contrast": [
+    {
+      "role": "blue",
+      "foreground": "#ffffff",
+      "background": "#247397",
+      "ratio": 5.28
+    },
+    {
+      "role": "navy",
+      "foreground": "#ffffff",
+      "background": "#173849",
+      "ratio": 12.37
+    },
+    {
+      "role": "teal",
+      "foreground": "#ffffff",
+      "background": "#1e7686",
+      "ratio": 5.26
+    },
+    {
+      "role": "green",
+      "foreground": "#ffffff",
+      "background": "#286e60",
+      "ratio": 6.02
+    },
+    {
+      "role": "indigo",
+      "foreground": "#ffffff",
+      "background": "#3d6093",
+      "ratio": 6.38
+    },
+    {
+      "role": "organ4",
+      "foreground": "#ffffff",
+      "background": "#236b8a",
+      "ratio": 5.93
+    },
+    {
+      "role": "organ5",
+      "foreground": "#ffffff",
+      "background": "#246f76",
+      "ratio": 5.82
+    }
+  ],
+  "notes": "Calculated checks for the listed foreground/background pairs; not a certification of every site state. Official third-party logos retain their original colors."
+}

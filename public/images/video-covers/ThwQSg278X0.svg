@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720"><title>Prof. Dr.  Ercan Kocakoç | Biyopsi</title>
+<rect width="1280" height="720" fill="#286e60"/><path d="M841 0H1280V720H894Q780 360 841 0Z" fill="#ffffff" opacity=".10"/>
+<circle cx="1020" cy="340" r="190" fill="#ffffff" opacity=".22"/><circle cx="1020" cy="340" r="158" fill="none" stroke="#c0e3d6" opacity=".18" stroke-width="2"/>
+<path d="M842 160V132H870M1171 132H1199V160M842 520V548H870M1171 548H1199V520" fill="none" stroke="#c0e3d6" stroke-width="3" opacity=".7"/>
+<path d="M64 121H751" stroke="#ffffff" opacity=".18" stroke-width="1"/>
+<text x="64" y="82" fill="#ffffff" font-family="DejaVu Sans,sans-serif" font-size="27" letter-spacing=".5">Prof. Dr. Ercan Kocakoç</text>
+<text x="64" y="187" fill="#ffffff" opacity="1" font-family="DejaVu Sans,sans-serif" font-size="18" letter-spacing="3">BIYOPSI</text>
+<text fill="#ffffff" font-family="DejaVu Serif,serif" font-size="58" font-weight="400" letter-spacing="-1.3"><tspan x="64" y="322">Biyopsi</tspan></text>
+<path d="M64 428H131" stroke="#e9bb7e" stroke-width="5"/>
+<text x="64" y="483" fill="#ffffff" opacity="1" font-family="DejaVu Sans,sans-serif" font-size="25">Görüntüleme eşliğinde örnekleme</text>
+<g xmlns="http://www.w3.org/2000/svg" transform="translate(1020 340) scale(.94)" fill="none" stroke="#c0e3d6" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><path d="M-165-77Q-85-118 0-78T165-77V94Q81 128 0 94T-165 94Z" /><path d="M-165-18Q-82-55 0-18T165-18M-165 36Q-82-3 0 36T165 36" /><circle cx="-102" cy="-57" r="10" /><circle cx="-26" cy="-43" r="10" /><circle cx="68" cy="-50" r="10" /><circle cx="119" cy="13" r="10" /><circle cx="-58" cy="13" r="10" /><circle cx="36" cy="65" r="10" /></g>
+<rect x="64" y="599" width="42" height="32" rx="7" fill="#ffffff" opacity=".9"/><path d="M81 607L94 615L81 623Z" fill="#286e60"/>
+<text x="124" y="623" fill="#ffffff" font-family="DejaVu Sans,sans-serif" font-size="18" letter-spacing="2">VİDEO ARŞİVİ</text>
+<text x="1187" y="628" text-anchor="end" fill="#c0e3d6" font-family="DejaVu Sans,sans-serif" font-size="20">08</text></svg>

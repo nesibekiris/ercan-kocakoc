@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720"><title>Dr. Ercan Kocakoç | Prostat Füzyon Biyopsi</title>
+<rect width="1280" height="720" fill="#247397"/><path d="M841 0H1280V720H894Q780 360 841 0Z" fill="#ffffff" opacity=".10"/>
+<circle cx="1020" cy="340" r="190" fill="#ffffff" opacity=".22"/><circle cx="1020" cy="340" r="158" fill="none" stroke="#b4dae9" opacity=".18" stroke-width="2"/>
+<path d="M842 160V132H870M1171 132H1199V160M842 520V548H870M1171 548H1199V520" fill="none" stroke="#b4dae9" stroke-width="3" opacity=".7"/>
+<path d="M64 121H751" stroke="#ffffff" opacity=".18" stroke-width="1"/>
+<text x="64" y="82" fill="#ffffff" font-family="DejaVu Sans,sans-serif" font-size="27" letter-spacing=".5">Prof. Dr. Ercan Kocakoç</text>
+<text x="64" y="187" fill="#ffffff" opacity="1" font-family="DejaVu Sans,sans-serif" font-size="18" letter-spacing="3">BIYOPSI</text>
+<text fill="#ffffff" font-family="DejaVu Serif,serif" font-size="58" font-weight="400" letter-spacing="-1.3"><tspan x="64" y="286">Prostat füzyon</tspan><tspan x="64" y="364">biyopsisi</tspan></text>
+<path d="M64 428H131" stroke="#e9bb7e" stroke-width="5"/>
+<text x="64" y="483" fill="#ffffff" opacity="1" font-family="DejaVu Sans,sans-serif" font-size="25">MR ve ultrason rehberliğinde</text>
+<g xmlns="http://www.w3.org/2000/svg" transform="translate(1020 340) scale(.94)" fill="none" stroke="#b4dae9" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><path d="M-94-118Q-74-167 0-158Q74-167 94-118Q121-62 54-13L29 14M-29 14L-54-13Q-121-62-94-118" /><path d="M-29 19Q-101-20-111 46Q-112 111-25 120H25Q112 111 111 46Q101-20 29 19Z" /><path d="M-12-2V147M12-2V147M-66 49Q-37 33-25 75M66 49Q37 33 25 75" /></g>
+<rect x="64" y="599" width="42" height="32" rx="7" fill="#ffffff" opacity=".9"/><path d="M81 607L94 615L81 623Z" fill="#247397"/>
+<text x="124" y="623" fill="#ffffff" font-family="DejaVu Sans,sans-serif" font-size="18" letter-spacing="2">VİDEO ARŞİVİ</text>
+<text x="1187" y="628" text-anchor="end" fill="#b4dae9" font-family="DejaVu Sans,sans-serif" font-size="20">07</text></svg>
