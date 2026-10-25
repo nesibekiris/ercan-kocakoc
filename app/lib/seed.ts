@@ -102,7 +102,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Prostat Füzyon Biyopsisi: İşlem ve Hazırlık | Ercan Kocakoç",
     "seoDescription": "MR ve ultrason görüntülerini birleştirerek prostatta şüpheli alanlardan doku örneği alınmasına yardımcı olan yöntem.",
     "source": "https://www.ercankocakoc.com/biyopsi/prostat-fuzyon-biyopsi",
-    "coverImage": "/images/editorial/biyopsi--prostat-fuzyon-biyopsi.svg",
+    "coverImage": "/images/blog-covers/biyopsi--prostat-fuzyon-biyopsi.webp",
     "coverImageAlt": "Prostat füzyon biyopsisi nedir, nasıl yapılır? konulu radyoloji illüstrasyonu",
     "seoTitleEn": "What is prostate fusion biopsy and how is it performed? | Ercan Kocakoç",
     "seoDescriptionEn": "A technique that combines MRI and ultrasound images to guide tissue sampling from suspicious areas in the prostate."
@@ -125,7 +125,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Pankreas biyopsisi nedir, nasıl yapılır? | Ercan Kocakoç",
     "seoDescription": "Pankreasta saptanan bir lezyonun yapısını değerlendirmek için görüntüleme eşliğinde örnekleme.",
     "source": "https://www.ercankocakoc.com/biyopsi/pankreas-biyopsi",
-    "coverImage": "/images/editorial/biyopsi--pankreas-biyopsi.svg",
+    "coverImage": "/images/blog-covers/biyopsi--pankreas-biyopsi.webp",
     "coverImageAlt": "Pankreas biyopsisi nedir, nasıl yapılır? konulu radyoloji illüstrasyonu",
     "seoTitleEn": "What is a pancreatic biopsy? | Ercan Kocakoç",
     "seoDescriptionEn": "Image-guided sampling to help evaluate a pancreatic lesion."
@@ -148,7 +148,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Meme biyopsisi nedir, nasıl yapılır? | Ercan Kocakoç",
     "seoDescription": "Meme görüntülemesinde şüpheli bulunan bir alanın patolojik değerlendirme için örneklenmesi.",
     "source": "https://www.ercankocakoc.com/biyopsi/meme-biyopsi",
-    "coverImage": "/images/editorial/biyopsi--meme-biyopsi.svg",
+    "coverImage": "/images/blog-covers/biyopsi--meme-biyopsi.webp",
     "coverImageAlt": "Meme biyopsisi nedir, nasıl yapılır? konulu radyoloji illüstrasyonu",
     "seoTitleEn": "What is a breast biopsy? | Ercan Kocakoç",
     "seoDescriptionEn": "Sampling a suspicious area identified on breast imaging for pathological assessment."
@@ -171,7 +171,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Lenf bezi biyopsisi nedir, nasıl yapılır? | Ercan Kocakoç",
     "seoDescription": "Gerekli görülen lenf bezinden tanısal değerlendirme amacıyla doku veya hücre örneği alınması.",
     "source": "https://www.ercankocakoc.com/biyopsi/lenf-bezi-biyopsi",
-    "coverImage": "/images/editorial/biyopsi--lenf-bezi-biyopsi.svg",
+    "coverImage": "/images/blog-covers/biyopsi--lenf-bezi-biyopsi.webp",
     "coverImageAlt": "Lenf bezi biyopsisi nedir, nasıl yapılır? konulu radyoloji illüstrasyonu",
     "seoTitleEn": "What is a lymph node biopsy? | Ercan Kocakoç",
     "seoDescriptionEn": "Tissue or cell sampling from a lymph node when clinically indicated."
@@ -194,7 +194,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Tiroid biyopsisi nedir, nasıl yapılır? | Ercan Kocakoç",
     "seoDescription": "Ultrason değerlendirmesi ve klinik bulgular doğrultusunda tiroid nodülünden örnek alınması.",
     "source": "https://www.ercankocakoc.com/biyopsi/tiroid-biyopsi",
-    "coverImage": "/images/editorial/biyopsi--tiroid-biyopsi.svg",
+    "coverImage": "/images/blog-covers/biyopsi--tiroid-biyopsi.webp",
     "coverImageAlt": "Tiroid biyopsisi nedir, nasıl yapılır? konulu radyoloji illüstrasyonu",
     "seoTitleEn": "What is a thyroid biopsy? | Ercan Kocakoç",
     "seoDescriptionEn": "Sampling a thyroid nodule based on ultrasound findings and clinical assessment."
@@ -217,7 +217,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Kemik biyopsisi nedir, nasıl yapılır? | Ercan Kocakoç",
     "seoDescription": "Kemikteki bir lezyondan görüntüleme rehberliğinde tanısal örnek alınması.",
     "source": "https://www.ercankocakoc.com/biyopsi/kemik-biyopsi",
-    "coverImage": "/images/editorial/biyopsi--kemik-biyopsi.svg",
+    "coverImage": "/images/blog-covers/biyopsi--kemik-biyopsi.webp",
     "coverImageAlt": "Kemik biyopsisi nedir, nasıl yapılır? konulu radyoloji illüstrasyonu",
     "seoTitleEn": "What is a bone biopsy? | Ercan Kocakoç",
     "seoDescriptionEn": "Image-guided diagnostic sampling of a bone lesion."
@@ -240,7 +240,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Akciğer biyopsisi nedir, nasıl yapılır? | Ercan Kocakoç",
     "seoDescription": "Akciğerdeki uygun bir lezyondan görüntüleme eşliğinde doku örneği alınması.",
     "source": "https://www.ercankocakoc.com/biyopsi/akciger-biyopsi",
-    "coverImage": "/images/editorial/biyopsi--akciger-biyopsi.svg",
+    "coverImage": "/images/blog-covers/biyopsi--akciger-biyopsi.webp",
     "coverImageAlt": "Akciğer biyopsisi nedir, nasıl yapılır? konulu radyoloji illüstrasyonu",
     "seoTitleEn": "What is a lung biopsy? | Ercan Kocakoç",
     "seoDescriptionEn": "Image-guided tissue sampling from an appropriate lung lesion."
@@ -263,7 +263,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Yumuşak doku biyopsisi: işlem ve hazırlık | Ercan Kocakoç",
     "seoDescription": "Yumuşak dokuda saptanan bir kitlenin patolojik değerlendirme için örneklenmesi.",
     "source": "https://www.ercankocakoc.com/biyopsi/yumusak-doku-biyopsi",
-    "coverImage": "/images/editorial/biyopsi--yumusak-doku-biyopsi.svg",
+    "coverImage": "/images/blog-covers/biyopsi--yumusak-doku-biyopsi.webp",
     "coverImageAlt": "Yumuşak doku biyopsisi konulu radyoloji illüstrasyonu",
     "seoTitleEn": "Soft tissue biopsy: procedure and preparation | Ercan Kocakoç",
     "seoDescriptionEn": "Sampling a soft tissue mass for pathological assessment."
@@ -286,7 +286,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Karaciğer biyopsisi: işlem, hazırlık ve takip | Ercan Kocakoç",
     "seoDescription": "Karaciğer dokusu veya karaciğerdeki bir lezyondan tanısal inceleme amacıyla örnek alınması.",
     "source": "https://www.ercankocakoc.com/biyopsi/karaciger-biyopsi",
-    "coverImage": "/images/editorial/biyopsi--karaciger-biyopsi.svg",
+    "coverImage": "/images/blog-covers/biyopsi--karaciger-biyopsi.webp",
     "coverImageAlt": "Karaciğer biyopsisi konulu radyoloji illüstrasyonu",
     "seoTitleEn": "Liver biopsy: procedure, preparation and follow-up | Ercan Kocakoç",
     "seoDescriptionEn": "Diagnostic sampling of liver tissue or a liver lesion."
@@ -309,7 +309,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Karaciğer Tümör Ablasyonu: RF ve Mikrodalga | Ercan Kocakoç",
     "seoDescription": "Uygun hastalarda karaciğerdeki tümör odaklarına görüntüleme eşliğinde uygulanan lokal tedavi.",
     "source": "https://www.ercankocakoc.com/tedaviler/karaciger-tumor-ablasyon-tedavisi",
-    "coverImage": "/images/editorial/tedaviler--karaciger-tumor-ablasyon-tedavisi.svg",
+    "coverImage": "/images/blog-covers/tedaviler--karaciger-tumor-ablasyon-tedavisi.webp",
     "coverImageAlt": "Karaciğer tümör ablasyonu konulu radyoloji illüstrasyonu",
     "seoTitleEn": "Liver tumour ablation: radiofrequency and microwave treatment | Ercan Kocakoç",
     "seoDescriptionEn": "Image-guided local treatment of liver tumour sites in selected patients."
@@ -332,7 +332,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Kemoembolizasyon (TAKE) nedir, nasıl uygulanır? | Ercan Kocakoç",
     "seoDescription": "Seçilmiş hastalarda tümörü besleyen damarlara kateterle ulaşılarak uygulanan tedavi yaklaşımı.",
     "source": "https://www.ercankocakoc.com/tedaviler/kemoembolizasyon",
-    "coverImage": "/images/editorial/tedaviler--kemoembolizasyon.svg",
+    "coverImage": "/images/blog-covers/tedaviler--kemoembolizasyon.webp",
     "coverImageAlt": "Kemoembolizasyon (TAKE) nedir, nasıl uygulanır? konulu radyoloji illüstrasyonu",
     "seoTitleEn": "What is transarterial chemoembolisation (TACE)? | Ercan Kocakoç",
     "seoDescriptionEn": "A catheter-based approach to treating selected tumours through their supplying blood vessels."
@@ -355,7 +355,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Miyom ve diğer tümörlerde embolizasyon tedavisi | Ercan Kocakoç",
     "seoDescription": "Uygun lezyonlarda tümörü besleyen damarların hedeflenmesine dayanan girişimsel yöntem.",
     "source": "https://www.ercankocakoc.com/tedaviler/diger-bolgelerdeki-tumor-embolizasyonu",
-    "coverImage": "/images/editorial/tedaviler--diger-bolgelerdeki-tumor-embolizasyonu.svg",
+    "coverImage": "/images/blog-covers/tedaviler--diger-bolgelerdeki-tumor-embolizasyonu.webp",
     "coverImageAlt": "Miyom ve diğer tümörlerde embolizasyon tedavisi konulu radyoloji illüstrasyonu",
     "seoTitleEn": "Embolisation for fibroids and other tumours | Ercan Kocakoç",
     "seoDescriptionEn": "An interventional procedure targeting blood vessels that supply an appropriate tumour."
@@ -378,7 +378,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Radyoembolizasyon (TARE) tedavisi nedir? | Ercan Kocakoç",
     "seoDescription": "Seçilmiş karaciğer tümörlerinde damar yoluyla uygulanan, multidisipliner değerlendirme gerektiren tedavi.",
     "source": "https://www.ercankocakoc.com/tedaviler/radyoembolizasyon-tedavisi",
-    "coverImage": "/images/editorial/tedaviler--radyoembolizasyon-tedavisi.svg",
+    "coverImage": "/images/blog-covers/tedaviler--radyoembolizasyon-tedavisi.webp",
     "coverImageAlt": "Radyoembolizasyon (TARE) tedavisi nedir? konulu radyoloji illüstrasyonu",
     "seoTitleEn": "What is transarterial radioembolisation (TARE)? | Ercan Kocakoç",
     "seoDescriptionEn": "A transarterial treatment for selected liver tumours requiring multidisciplinary assessment."
@@ -401,7 +401,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Perkütan kolesistostomi: safra kesesi drenajı | Ercan Kocakoç",
     "seoDescription": "Gerekli klinik durumlarda safra kesesine görüntüleme rehberliğinde drenaj kateteri yerleştirilmesi.",
     "source": "https://www.ercankocakoc.com/tedaviler/perkutan-kolesistostomi",
-    "coverImage": "/images/editorial/tedaviler--perkutan-kolesistostomi.svg",
+    "coverImage": "/images/blog-covers/tedaviler--perkutan-kolesistostomi.webp",
     "coverImageAlt": "Perkütan kolesistostomi konulu radyoloji illüstrasyonu",
     "seoTitleEn": "Percutaneous cholecystostomy: gallbladder drainage | Ercan Kocakoç",
     "seoDescriptionEn": "Image-guided placement of a drainage catheter in the gallbladder when clinically needed."
@@ -424,7 +424,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Gebelik ultrasonu: ne zaman ve nasıl yapılır? | Ercan Kocakoç",
     "seoDescription": "Gebelik takibinde ultrason görüntülemesi hakkında genel bilgilendirme.",
     "source": "https://www.ercankocakoc.com/ultrason-girisimsel-radyoloji/gebelik-ultrasonu",
-    "coverImage": "/images/editorial/ultrason-girisimsel-radyoloji--gebelik-ultrasonu.svg",
+    "coverImage": "/images/blog-covers/ultrason--gebelik-ultrasonu.webp",
     "coverImageAlt": "Gebelik ultrasonu konulu radyoloji illüstrasyonu",
     "seoTitleEn": "Pregnancy ultrasound: timing and examination | Ercan Kocakoç",
     "seoDescriptionEn": "General information about ultrasound imaging during pregnancy."
@@ -447,7 +447,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Karaciğer ultrasonu: neyi gösterir, nasıl yapılır? | Ercan Kocakoç",
     "seoDescription": "Karaciğerin ve ilgili yapıların ses dalgalarıyla değerlendirilmesi.",
     "source": "https://www.ercankocakoc.com/ultrason-girisimsel-radyoloji/karaciger-ultrasonu",
-    "coverImage": "/images/editorial/ultrason-girisimsel-radyoloji--karaciger-ultrasonu.svg",
+    "coverImage": "/images/blog-covers/ultrason--karaciger-ultrasonu.webp",
     "coverImageAlt": "Karaciğer ultrasonu konulu radyoloji illüstrasyonu",
     "seoTitleEn": "Liver ultrasound: what it shows and how it is performed | Ercan Kocakoç",
     "seoDescriptionEn": "Ultrasound assessment of the liver and related structures."
@@ -470,7 +470,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Meme ultrasonu: hangi durumlarda yapılır? | Ercan Kocakoç",
     "seoDescription": "Meme dokusunun ultrasonla değerlendirilmesi ve gerektiğinde diğer incelemelerle birlikte yorumlanması.",
     "source": "https://www.ercankocakoc.com/ultrason-girisimsel-radyoloji/meme-ultrasonu",
-    "coverImage": "/images/editorial/ultrason-girisimsel-radyoloji--meme-ultrasonu.svg",
+    "coverImage": "/images/blog-covers/ultrason--meme-ultrasonu.webp",
     "coverImageAlt": "Meme ultrasonu konulu radyoloji illüstrasyonu",
     "seoTitleEn": "Breast ultrasound: when is it used? | Ercan Kocakoç",
     "seoDescriptionEn": "Ultrasound assessment of breast tissue, interpreted alongside other examinations when needed."
@@ -493,7 +493,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Karın ultrasonu: inceleme ve hazırlık süreci | Ercan Kocakoç",
     "seoDescription": "Karın ultrasonunda incelenen organlar, işlemin uygulanışı ve hazırlık süreci hakkında Prof. Dr. Ercan Kocakoç’un bilgilendirme yazısı.",
     "source": "https://www.ercankocakoc.com/ultrason-girisimsel-radyoloji/karin-ultrasonu",
-    "coverImage": "/images/editorial/ultrason-girisimsel-radyoloji--karin-ultrasonu.svg",
+    "coverImage": "/images/blog-covers/ultrason--karin-ultrasonu.webp",
     "coverImageAlt": "Karın ultrasonu konulu radyoloji illüstrasyonu",
     "seoTitleEn": "Abdominal ultrasound: examination and preparation | Ercan Kocakoç",
     "seoDescriptionEn": "Ultrasound examination of abdominal organs."
@@ -516,7 +516,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Tiroid ultrasonu: nodül ve tiroid değerlendirmesi | Ercan Kocakoç",
     "seoDescription": "Tiroid bezinin ve nodüllerin ultrasonla değerlendirilmesi, incelemenin uygulanışı ve kullanım alanları hakkında bilgi edinin.",
     "source": "https://www.ercankocakoc.com/ultrason-girisimsel-radyoloji/tiroid-ultrasonu",
-    "coverImage": "/images/editorial/ultrason-girisimsel-radyoloji--tiroid-ultrasonu.svg",
+    "coverImage": "/images/blog-covers/ultrason--tiroid-ultrasonu.webp",
     "coverImageAlt": "Tiroid ultrasonu konulu radyoloji illüstrasyonu",
     "seoTitleEn": "Thyroid ultrasound: thyroid and nodule assessment | Ercan Kocakoç",
     "seoDescriptionEn": "Ultrasound assessment of the thyroid gland and thyroid nodules."
@@ -539,7 +539,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Üriner ve Ürogenital Ultrason | Ercan Kocakoç",
     "seoDescription": "Böbrek, mesane ve ilgili ürogenital yapıların ultrasonla incelenmesi.",
     "source": "https://www.ercankocakoc.com/ultrason-girisimsel-radyoloji/uriner-sistem-ve-urogenital-ultrason",
-    "coverImage": "/images/editorial/ultrason-girisimsel-radyoloji--uriner-sistem-ve-urogenital-ultrason.svg",
+    "coverImage": "/images/blog-covers/ultrason--uriner-sistem-ve-urogenital-ultrason.webp",
     "coverImageAlt": "Üriner ve ürogenital ultrason konulu radyoloji illüstrasyonu",
     "seoTitleEn": "Urinary and genitourinary ultrasound: organs examined | Ercan Kocakoç",
     "seoDescriptionEn": "Ultrasound assessment of the kidneys, bladder and related genitourinary structures."
@@ -562,7 +562,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Radyolojide ikinci görüş: ne zaman ve neden alınır? | Ercan Kocakoç",
     "seoDescription": "Karın bölgesine ait mevcut MR, BT ve ultrason incelemelerinin yeniden değerlendirilmesi.",
     "source": "https://www.ercankocakoc.com/2-uzman-gorusu/abdomen-karin-bolgesi-tanisal-2-gorus",
-    "coverImage": "/images/editorial/2-uzman-gorusu--abdomen-karin-bolgesi-tanisal-2-gorus.svg",
+    "coverImage": "/images/blog-covers/ikinci-gorus--abdomen-karin-bolgesi-tanisal-2-gorus.webp",
     "coverImageAlt": "Radyolojide ikinci görüş konulu radyoloji illüstrasyonu",
     "seoTitleEn": "Second opinions in radiology: when and why? | Ercan Kocakoç",
     "seoDescriptionEn": "Review of existing abdominal MRI, CT and ultrasound examinations."
@@ -585,7 +585,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Abdominal Radyoloji ve Görüntüleme | Ercan Kocakoç",
     "seoDescription": "Karın içi organlara ait görüntüleme bulgularının klinik bilgilerle birlikte ele alınması.",
     "source": "https://www.ercankocakoc.com/2-uzman-gorusu/karin-bolgesi-radyolojisi",
-    "coverImage": "/images/editorial/2-uzman-gorusu--karin-bolgesi-radyolojisi.svg",
+    "coverImage": "/images/blog-covers/ikinci-gorus--karin-bolgesi-radyolojisi.webp",
     "coverImageAlt": "Abdominal radyoloji konulu radyoloji illüstrasyonu",
     "seoTitleEn": "Abdominal radiology: imaging and academic work | Ercan Kocakoç",
     "seoDescriptionEn": "Assessment of abdominal imaging findings in their clinical context."
@@ -608,7 +608,7 @@ export const seedPages:PageRecord[] = [
     "seoTitle": "Genitoüriner Radyoloji | Ercan Kocakoç",
     "seoDescription": "Böbrek ve üreme sistemine ait radyolojik görüntülerin değerlendirilmesi.",
     "source": "https://www.ercankocakoc.com/2-uzman-gorusu/bobrek-ve-ureme-sistemi",
-    "coverImage": "/images/editorial/2-uzman-gorusu--bobrek-ve-ureme-sistemi.svg",
+    "coverImage": "/images/blog-covers/ikinci-gorus--bobrek-ve-ureme-sistemi.webp",
     "coverImageAlt": "Genitoüriner radyoloji konulu radyoloji illüstrasyonu",
     "seoTitleEn": "Genitourinary radiology: kidney and reproductive system imaging | Ercan Kocakoç",
     "seoDescriptionEn": "Review of radiological images of the kidneys and reproductive system."
@@ -674,7 +674,7 @@ export const seedPages:PageRecord[] = [
     "updatedAt": "2026-10-25",
     "publishedAt": "2026-10-24",
     "faqs": [],
-    "coverImage": "/images/editorial/blog--prostat-fuzyon-biyopsi-nedir.svg",
+    "coverImage": "/images/blog-covers/blog--prostat-fuzyon-biyopsi-nedir.webp",
     "coverImageAlt": "Prostat füzyon biyopsisi konulu radyoloji illüstrasyonu",
     "seoTitleEn": "Prostate fusion biopsy: combining MRI and ultrasound | Ercan Kocakoç",
     "seoDescriptionEn": "The purpose of fusion biopsy, imaging versus tissue sampling, and questions to ask at your consultation."
@@ -698,7 +698,7 @@ export const seedPages:PageRecord[] = [
     "updatedAt": "2026-10-25",
     "publishedAt": "2026-10-24",
     "faqs": [],
-    "coverImage": "/images/editorial/blog--biyopsi-oncesi-hangi-sorulari-sormalisiniz.svg",
+    "coverImage": "/images/blog-covers/blog--biyopsi-oncesi-hangi-sorulari-sormalisiniz.webp",
     "coverImageAlt": "Biyopsi öncesi hazırlık konulu radyoloji illüstrasyonu",
     "seoTitleEn": "Preparing for a biopsy: five questions for your physician | Ercan Kocakoç",
     "seoDescriptionEn": "A guide to discussing the purpose, preparation, results and follow-up of a biopsy."
@@ -722,7 +722,7 @@ export const seedPages:PageRecord[] = [
     "updatedAt": "2026-10-25",
     "publishedAt": "2026-10-24",
     "faqs": [],
-    "coverImage": "/images/editorial/blog--ultrason-randevusuna-hazirlik.svg",
+    "coverImage": "/images/blog-covers/blog--ultrason-randevusuna-hazirlik.webp",
     "coverImageAlt": "Ultrason öncesi hazırlık konulu radyoloji illüstrasyonu",
     "seoTitleEn": "Ultrasound preparation: does every examination require the same steps? | Ercan Kocakoç",
     "seoDescriptionEn": "Why preparation can vary by examination and what to ask before your appointment."
@@ -746,7 +746,7 @@ export const seedPages:PageRecord[] = [
     "updatedAt": "2026-10-25",
     "publishedAt": "2026-10-24",
     "faqs": [],
-    "coverImage": "/images/editorial/blog--ikinci-gorus-icin-goruntuler.svg",
+    "coverImage": "/images/blog-covers/blog--ikinci-gorus-icin-goruntuler.webp",
     "coverImageAlt": "İkinci uzman görüşü için gerekli görüntüler ve raporlar konulu radyoloji illüstrasyonu",
     "seoTitleEn": "Images and reports to prepare for a radiology second opinion | Ercan Kocakoç",
     "seoDescriptionEn": "A practical checklist for preparing images, previous examinations and clinical information."

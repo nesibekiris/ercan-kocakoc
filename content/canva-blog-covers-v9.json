@@ -1,0 +1,43 @@
+{
+  "source": "User-supplied Canva folder F AHZBhxDcmc and chat attachments, 2026-10-25",
+  "output": {
+    "directory": "/images/blog-covers/",
+    "format": "WebP",
+    "dimensions": [1200, 800],
+    "count": 27
+  },
+  "notes": [
+    "Twenty-six distinct supplied images were matched to twenty-seven writing pages.",
+    "The prostate fusion biopsy article and editorial guide use distinct compositions derived from the same topic-specific supplied image.",
+    "Original page text and original site imagery were retained."
+  ],
+  "covers": [
+    {"slug":"biyopsi/prostat-fuzyon-biyopsi","file":"/images/blog-covers/biyopsi--prostat-fuzyon-biyopsi.webp"},
+    {"slug":"biyopsi/pankreas-biyopsi","file":"/images/blog-covers/biyopsi--pankreas-biyopsi.webp"},
+    {"slug":"biyopsi/meme-biyopsi","file":"/images/blog-covers/biyopsi--meme-biyopsi.webp"},
+    {"slug":"biyopsi/lenf-bezi-biyopsi","file":"/images/blog-covers/biyopsi--lenf-bezi-biyopsi.webp"},
+    {"slug":"biyopsi/tiroid-biyopsi","file":"/images/blog-covers/biyopsi--tiroid-biyopsi.webp"},
+    {"slug":"biyopsi/kemik-biyopsi","file":"/images/blog-covers/biyopsi--kemik-biyopsi.webp"},
+    {"slug":"biyopsi/akciger-biyopsi","file":"/images/blog-covers/biyopsi--akciger-biyopsi.webp"},
+    {"slug":"biyopsi/yumusak-doku-biyopsi","file":"/images/blog-covers/biyopsi--yumusak-doku-biyopsi.webp"},
+    {"slug":"biyopsi/karaciger-biyopsi","file":"/images/blog-covers/biyopsi--karaciger-biyopsi.webp"},
+    {"slug":"tedaviler/karaciger-tumor-ablasyon-tedavisi","file":"/images/blog-covers/tedaviler--karaciger-tumor-ablasyon-tedavisi.webp"},
+    {"slug":"tedaviler/kemoembolizasyon","file":"/images/blog-covers/tedaviler--kemoembolizasyon.webp"},
+    {"slug":"tedaviler/diger-bolgelerdeki-tumor-embolizasyonu","file":"/images/blog-covers/tedaviler--diger-bolgelerdeki-tumor-embolizasyonu.webp"},
+    {"slug":"tedaviler/radyoembolizasyon-tedavisi","file":"/images/blog-covers/tedaviler--radyoembolizasyon-tedavisi.webp"},
+    {"slug":"tedaviler/perkutan-kolesistostomi","file":"/images/blog-covers/tedaviler--perkutan-kolesistostomi.webp"},
+    {"slug":"ultrason-girisimsel-radyoloji/gebelik-ultrasonu","file":"/images/blog-covers/ultrason--gebelik-ultrasonu.webp"},
+    {"slug":"ultrason-girisimsel-radyoloji/karaciger-ultrasonu","file":"/images/blog-covers/ultrason--karaciger-ultrasonu.webp"},
+    {"slug":"ultrason-girisimsel-radyoloji/meme-ultrasonu","file":"/images/blog-covers/ultrason--meme-ultrasonu.webp"},
+    {"slug":"ultrason-girisimsel-radyoloji/karin-ultrasonu","file":"/images/blog-covers/ultrason--karin-ultrasonu.webp"},
+    {"slug":"ultrason-girisimsel-radyoloji/tiroid-ultrasonu","file":"/images/blog-covers/ultrason--tiroid-ultrasonu.webp"},
+    {"slug":"ultrason-girisimsel-radyoloji/uriner-sistem-ve-urogenital-ultrason","file":"/images/blog-covers/ultrason--uriner-sistem-ve-urogenital-ultrason.webp"},
+    {"slug":"2-uzman-gorusu/abdomen-karin-bolgesi-tanisal-2-gorus","file":"/images/blog-covers/ikinci-gorus--abdomen-karin-bolgesi-tanisal-2-gorus.webp"},
+    {"slug":"2-uzman-gorusu/karin-bolgesi-radyolojisi","file":"/images/blog-covers/ikinci-gorus--karin-bolgesi-radyolojisi.webp"},
+    {"slug":"2-uzman-gorusu/bobrek-ve-ureme-sistemi","file":"/images/blog-covers/ikinci-gorus--bobrek-ve-ureme-sistemi.webp"},
+    {"slug":"blog/prostat-fuzyon-biyopsi-nedir","file":"/images/blog-covers/blog--prostat-fuzyon-biyopsi-nedir.webp"},
+    {"slug":"blog/biyopsi-oncesi-hangi-sorulari-sormalisiniz","file":"/images/blog-covers/blog--biyopsi-oncesi-hangi-sorulari-sormalisiniz.webp"},
+    {"slug":"blog/ultrason-randevusuna-hazirlik","file":"/images/blog-covers/blog--ultrason-randevusuna-hazirlik.webp"},
+    {"slug":"blog/ikinci-gorus-icin-goruntuler","file":"/images/blog-covers/blog--ikinci-gorus-icin-goruntuler.webp"}
+  ]
+}
