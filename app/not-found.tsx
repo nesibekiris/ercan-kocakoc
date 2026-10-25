@@ -1,0 +1,1 @@
+export default function NotFound(){return <main className="wrap section not-found"><span className="eyebrow">404 · SAYFA BULUNAMADI</span><h1>Aradığınız sayfaya<br/>ulaşılamadı.</h1><p>Bağlantı değişmiş olabilir. Ana sayfadan devam edebilirsiniz.</p><a className="btn" href="/">Ana sayfaya dön ↗</a></main>}

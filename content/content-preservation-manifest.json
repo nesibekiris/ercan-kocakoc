@@ -1,0 +1,140 @@
+[
+  {
+    "slug": "biyopsi/prostat-fuzyon-biyopsi",
+    "sha256": "5eb4cea9c3b92e905a1235fc2368e0b5363732ab8a19b96c65090eacb540cf1c",
+    "characters": 18371,
+    "source": "https://www.ercankocakoc.com/biyopsi/prostat-fuzyon-biyopsi"
+  },
+  {
+    "slug": "biyopsi/pankreas-biyopsi",
+    "sha256": "66f40fd9dce8b54642a920ea6d09907c9c3a60239d04a1c56d52f0aff8a6a161",
+    "characters": 2885,
+    "source": "https://www.ercankocakoc.com/biyopsi/pankreas-biyopsi"
+  },
+  {
+    "slug": "biyopsi/meme-biyopsi",
+    "sha256": "706fd05898115bcdd3b101be1721e9f8d2e4345a01a4d98e5af445eec6f4a38a",
+    "characters": 2564,
+    "source": "https://www.ercankocakoc.com/biyopsi/meme-biyopsi"
+  },
+  {
+    "slug": "biyopsi/lenf-bezi-biyopsi",
+    "sha256": "829ff28fd9b41ba5983d526fc2ada8bba20991777c1959cbe11381e29822bdc2",
+    "characters": 3182,
+    "source": "https://www.ercankocakoc.com/biyopsi/lenf-bezi-biyopsi"
+  },
+  {
+    "slug": "biyopsi/tiroid-biyopsi",
+    "sha256": "ed4cd986ab9fa325d408125f0963b89b16b9975e955f438d681c7c4e224e34b8",
+    "characters": 1924,
+    "source": "https://www.ercankocakoc.com/biyopsi/tiroid-biyopsi"
+  },
+  {
+    "slug": "biyopsi/kemik-biyopsi",
+    "sha256": "e5e9f93880c5ebe37e6b9a211b53b96df7c3e2953e126743fd816f0e67995f21",
+    "characters": 1352,
+    "source": "https://www.ercankocakoc.com/biyopsi/kemik-biyopsi"
+  },
+  {
+    "slug": "biyopsi/akciger-biyopsi",
+    "sha256": "f54799d7b32f5dc9befbb7339ce826728f56a5de3ce78d9c9dc7ce21ebb91a34",
+    "characters": 3996,
+    "source": "https://www.ercankocakoc.com/biyopsi/akciger-biyopsi"
+  },
+  {
+    "slug": "biyopsi/yumusak-doku-biyopsi",
+    "sha256": "41cd58ceae982bd6854f79268b4521bdf0f57affcf43ee475c0574caf4f859ce",
+    "characters": 2310,
+    "source": "https://www.ercankocakoc.com/biyopsi/yumusak-doku-biyopsi"
+  },
+  {
+    "slug": "biyopsi/karaciger-biyopsi",
+    "sha256": "c905710d14bc4ee2945adb868287aa5f1129659f9e16d6b682f8d96883116884",
+    "characters": 3605,
+    "source": "https://www.ercankocakoc.com/biyopsi/karaciger-biyopsi"
+  },
+  {
+    "slug": "tedaviler/karaciger-tumor-ablasyon-tedavisi",
+    "sha256": "af85a02cd07dcc8baead4d11055867063b985261470257fc857449beb9cde5c1",
+    "characters": 10521,
+    "source": "https://www.ercankocakoc.com/tedaviler/karaciger-tumor-ablasyon-tedavisi"
+  },
+  {
+    "slug": "tedaviler/kemoembolizasyon",
+    "sha256": "fab01a9c4e2ca8ff766a9d90e00c2ae14cdab95268e8dc6a38dc5ae64b7fdc5d",
+    "characters": 1234,
+    "source": "https://www.ercankocakoc.com/tedaviler/kemoembolizasyon"
+  },
+  {
+    "slug": "tedaviler/diger-bolgelerdeki-tumor-embolizasyonu",
+    "sha256": "8f7131c0948f5cf4099a24a31d87a0ed3b043740bfdc6f290235686b478f9e3a",
+    "characters": 4669,
+    "source": "https://www.ercankocakoc.com/tedaviler/diger-bolgelerdeki-tumor-embolizasyonu"
+  },
+  {
+    "slug": "tedaviler/radyoembolizasyon-tedavisi",
+    "sha256": "def472108e5a28bc0a7c05b84d5ea6c2d643c167728973730c9c5926e73a7242",
+    "characters": 2033,
+    "source": "https://www.ercankocakoc.com/tedaviler/radyoembolizasyon-tedavisi"
+  },
+  {
+    "slug": "tedaviler/perkutan-kolesistostomi",
+    "sha256": "4d741d9682f9794b33a9327352a0764f11508e6614290d9bf030b7cf57539860",
+    "characters": 1812,
+    "source": "https://www.ercankocakoc.com/tedaviler/perkutan-kolesistostomi"
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/gebelik-ultrasonu",
+    "sha256": "5d5271dee48601d89f88603eeac27adade7febffe41d6cec2816650377eedea1",
+    "characters": 1980,
+    "source": "https://www.ercankocakoc.com/ultrason-girisimsel-radyoloji/gebelik-ultrasonu"
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/karaciger-ultrasonu",
+    "sha256": "01788667c16ab98a81365479ea4a868a5dbd44bb233ab62e7e2e03de4baef59a",
+    "characters": 1257,
+    "source": "https://www.ercankocakoc.com/ultrason-girisimsel-radyoloji/karaciger-ultrasonu"
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/meme-ultrasonu",
+    "sha256": "3725ea3d7eb0f2e8e1699672e1bbcda1cc70b5c0882025e240d357cd82c51643",
+    "characters": 1265,
+    "source": "https://www.ercankocakoc.com/ultrason-girisimsel-radyoloji/meme-ultrasonu"
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/karin-ultrasonu",
+    "sha256": "ee6bdedca5d18b935d040855423246be65cb0e5bce31fb88f80474b5b86ca742",
+    "characters": 1557,
+    "source": "https://www.ercankocakoc.com/ultrason-girisimsel-radyoloji/karin-ultrasonu"
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/tiroid-ultrasonu",
+    "sha256": "f1f2efae43f54145a4337de23f3b18b9aee0339fcafde00f98a643a2a6b80af8",
+    "characters": 803,
+    "source": "https://www.ercankocakoc.com/ultrason-girisimsel-radyoloji/tiroid-ultrasonu"
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/uriner-sistem-ve-urogenital-ultrason",
+    "sha256": "7262538f6fcc086e19af675cb826b4af464baacda709cfd4ccf438e5f93f9d4b",
+    "characters": 1895,
+    "source": "https://www.ercankocakoc.com/ultrason-girisimsel-radyoloji/uriner-sistem-ve-urogenital-ultrason"
+  },
+  {
+    "slug": "2-uzman-gorusu/abdomen-karin-bolgesi-tanisal-2-gorus",
+    "sha256": "9e42094bdd5c9ac0021a30b909c7d6d142f3ee6fad1a9232451c56fc0e41f136",
+    "characters": 4133,
+    "source": "https://www.ercankocakoc.com/2-uzman-gorusu/abdomen-karin-bolgesi-tanisal-2-gorus"
+  },
+  {
+    "slug": "2-uzman-gorusu/karin-bolgesi-radyolojisi",
+    "sha256": "5f9078592e34feddb7968070e68ddac9f85b1e914ae5bf11cd504a89be449399",
+    "characters": 8265,
+    "source": "https://www.ercankocakoc.com/2-uzman-gorusu/karin-bolgesi-radyolojisi"
+  },
+  {
+    "slug": "2-uzman-gorusu/bobrek-ve-ureme-sistemi",
+    "sha256": "d449305195cb97cd0aa75751b9c6b50bf41f3e74d89fc6b2b7706ddfa8c800da",
+    "characters": 19041,
+    "source": "https://www.ercankocakoc.com/2-uzman-gorusu/bobrek-ve-ureme-sistemi"
+  }
+]

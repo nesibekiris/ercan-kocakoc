@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "biyopsi/prostat-fuzyon-biyopsi",
+    "cover": "/images/original/prostat-fuzyon-biyopsi.webp",
+    "origin": "original-site"
+  },
+  {
+    "slug": "biyopsi/pankreas-biyopsi",
+    "cover": "/images/original/pankreas-biyopsi.webp",
+    "origin": "original-site"
+  },
+  {
+    "slug": "biyopsi/meme-biyopsi",
+    "cover": "/images/original/meme-biyopsi.webp",
+    "origin": "original-site"
+  },
+  {
+    "slug": "biyopsi/lenf-bezi-biyopsi",
+    "cover": "/images/original/lenf-bezi-biyopsi.webp",
+    "origin": "original-site"
+  },
+  {
+    "slug": "biyopsi/tiroid-biyopsi",
+    "cover": "/images/original/tiroid-biyopsi.webp",
+    "origin": "original-site"
+  },
+  {
+    "slug": "biyopsi/kemik-biyopsi",
+    "cover": "/images/original/kemik-biyopsi.webp",
+    "origin": "original-site"
+  },
+  {
+    "slug": "biyopsi/akciger-biyopsi",
+    "cover": "/images/original/akciger-biyopsi.webp",
+    "origin": "original-site"
+  },
+  {
+    "slug": "biyopsi/yumusak-doku-biyopsi",
+    "cover": "/images/original/yumusak-doku-biyopsi.webp",
+    "origin": "original-site"
+  },
+  {
+    "slug": "biyopsi/karaciger-biyopsi",
+    "cover": "/images/original/karaciger-biyopsi.webp",
+    "origin": "original-site"
+  },
+  {
+    "slug": "tedaviler/karaciger-tumor-ablasyon-tedavisi",
+    "cover": "/images/original/karaciger-tumor-ablasyon-tedavisi.webp",
+    "origin": "original-site"
+  },
+  {
+    "slug": "tedaviler/kemoembolizasyon",
+    "cover": "/images/original/kemoembolizasyon.webp",
+    "origin": "original-site"
+  },
+  {
+    "slug": "tedaviler/diger-bolgelerdeki-tumor-embolizasyonu",
+    "cover": "/images/original/diger-bolgelerdeki-tumor-embolizasyonu.webp",
+    "origin": "original-site"
+  },
+  {
+    "slug": "tedaviler/radyoembolizasyon-tedavisi",
+    "cover": "/images/original/radyoembolizasyon-tedavisi.webp",
+    "origin": "original-site"
+  },
+  {
+    "slug": "tedaviler/perkutan-kolesistostomi",
+    "cover": "/images/original/perkutan-kolesistostomi.webp",
+    "origin": "original-site"
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/gebelik-ultrasonu",
+    "cover": "/images/original/gebelik-ultrasonu.svg",
+    "origin": "original-site"
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/karaciger-ultrasonu",
+    "cover": "/images/original/karaciger-ultrasonu.svg",
+    "origin": "original-site"
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/meme-ultrasonu",
+    "cover": "/images/original/meme-ultrasonu.svg",
+    "origin": "original-site"
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/karin-ultrasonu",
+    "cover": "/images/original/karin-ultrasonu.svg",
+    "origin": "original-site"
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/tiroid-ultrasonu",
+    "cover": "/images/original/tiroid-ultrasonu.svg",
+    "origin": "original-site"
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/uriner-sistem-ve-urogenital-ultrason",
+    "cover": "/images/original/uriner-sistem-ve-urogenital-ultrason.svg",
+    "origin": "original-site"
+  },
+  {
+    "slug": "2-uzman-gorusu/abdomen-karin-bolgesi-tanisal-2-gorus",
+    "cover": "/images/licensed/ct-scanner.webp",
+    "origin": "licensed"
+  },
+  {
+    "slug": "2-uzman-gorusu/karin-bolgesi-radyolojisi",
+    "cover": "/images/original/karin-bolgesi-radyolojisi.webp",
+    "origin": "original-site"
+  },
+  {
+    "slug": "2-uzman-gorusu/bobrek-ve-ureme-sistemi",
+    "cover": "/images/original/bobrek-ureme-sistemleri.webp",
+    "origin": "original-site"
+  },
+  {
+    "slug": "blog/prostat-fuzyon-biyopsi-nedir",
+    "cover": "/images/licensed/mri-examination.webp",
+    "origin": "licensed"
+  },
+  {
+    "slug": "blog/biyopsi-oncesi-hangi-sorulari-sormalisiniz",
+    "cover": "/images/licensed/consultation-documents.webp",
+    "origin": "licensed"
+  },
+  {
+    "slug": "blog/ultrason-randevusuna-hazirlik",
+    "cover": "/images/licensed/ultrasound-probe.webp",
+    "origin": "licensed"
+  },
+  {
+    "slug": "blog/ikinci-gorus-icin-goruntuler",
+    "cover": "/images/licensed/xray-review.webp",
+    "origin": "licensed"
+  }
+]

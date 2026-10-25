@@ -1,0 +1,218 @@
+[
+  {
+    "slug": "biyopsi/prostat-fuzyon-biyopsi",
+    "cover": "/images/editorial/biyopsi--prostat-fuzyon-biyopsi.svg",
+    "subject": "prostate",
+    "procedure": "biopsy",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "biyopsi/pankreas-biyopsi",
+    "cover": "/images/editorial/biyopsi--pankreas-biyopsi.svg",
+    "subject": "pancreas",
+    "procedure": "biopsy",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "biyopsi/meme-biyopsi",
+    "cover": "/images/editorial/biyopsi--meme-biyopsi.svg",
+    "subject": "breast",
+    "procedure": "biopsy",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "biyopsi/lenf-bezi-biyopsi",
+    "cover": "/images/editorial/biyopsi--lenf-bezi-biyopsi.svg",
+    "subject": "lymph",
+    "procedure": "biopsy",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "biyopsi/tiroid-biyopsi",
+    "cover": "/images/editorial/biyopsi--tiroid-biyopsi.svg",
+    "subject": "thyroid",
+    "procedure": "biopsy",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "biyopsi/kemik-biyopsi",
+    "cover": "/images/editorial/biyopsi--kemik-biyopsi.svg",
+    "subject": "bone",
+    "procedure": "biopsy",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "biyopsi/akciger-biyopsi",
+    "cover": "/images/editorial/biyopsi--akciger-biyopsi.svg",
+    "subject": "lungs",
+    "procedure": "biopsy",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "biyopsi/yumusak-doku-biyopsi",
+    "cover": "/images/editorial/biyopsi--yumusak-doku-biyopsi.svg",
+    "subject": "tissue",
+    "procedure": "biopsy",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "biyopsi/karaciger-biyopsi",
+    "cover": "/images/editorial/biyopsi--karaciger-biyopsi.svg",
+    "subject": "liver",
+    "procedure": "biopsy",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "tedaviler/karaciger-tumor-ablasyon-tedavisi",
+    "cover": "/images/editorial/tedaviler--karaciger-tumor-ablasyon-tedavisi.svg",
+    "subject": "liver",
+    "procedure": "ablation",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "tedaviler/kemoembolizasyon",
+    "cover": "/images/editorial/tedaviler--kemoembolizasyon.svg",
+    "subject": "liver",
+    "procedure": "embolisation",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "tedaviler/diger-bolgelerdeki-tumor-embolizasyonu",
+    "cover": "/images/editorial/tedaviler--diger-bolgelerdeki-tumor-embolizasyonu.svg",
+    "subject": "uterus",
+    "procedure": "embolisation",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "tedaviler/radyoembolizasyon-tedavisi",
+    "cover": "/images/editorial/tedaviler--radyoembolizasyon-tedavisi.svg",
+    "subject": "liver",
+    "procedure": "radio",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "tedaviler/perkutan-kolesistostomi",
+    "cover": "/images/editorial/tedaviler--perkutan-kolesistostomi.svg",
+    "subject": "gallbladder",
+    "procedure": "drain",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/gebelik-ultrasonu",
+    "cover": "/images/editorial/ultrason-girisimsel-radyoloji--gebelik-ultrasonu.svg",
+    "subject": "pregnancy",
+    "procedure": "ultrasound",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/karaciger-ultrasonu",
+    "cover": "/images/editorial/ultrason-girisimsel-radyoloji--karaciger-ultrasonu.svg",
+    "subject": "liver",
+    "procedure": "ultrasound",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/meme-ultrasonu",
+    "cover": "/images/editorial/ultrason-girisimsel-radyoloji--meme-ultrasonu.svg",
+    "subject": "breast",
+    "procedure": "ultrasound",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/karin-ultrasonu",
+    "cover": "/images/editorial/ultrason-girisimsel-radyoloji--karin-ultrasonu.svg",
+    "subject": "abdomen",
+    "procedure": "ultrasound",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/tiroid-ultrasonu",
+    "cover": "/images/editorial/ultrason-girisimsel-radyoloji--tiroid-ultrasonu.svg",
+    "subject": "thyroid",
+    "procedure": "ultrasound",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/uriner-sistem-ve-urogenital-ultrason",
+    "cover": "/images/editorial/ultrason-girisimsel-radyoloji--uriner-sistem-ve-urogenital-ultrason.svg",
+    "subject": "kidneys",
+    "procedure": "ultrasound",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "2-uzman-gorusu/abdomen-karin-bolgesi-tanisal-2-gorus",
+    "cover": "/images/editorial/2-uzman-gorusu--abdomen-karin-bolgesi-tanisal-2-gorus.svg",
+    "subject": "scanner",
+    "procedure": "opinion",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "2-uzman-gorusu/karin-bolgesi-radyolojisi",
+    "cover": "/images/editorial/2-uzman-gorusu--karin-bolgesi-radyolojisi.svg",
+    "subject": "abdomen",
+    "procedure": "opinion",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "2-uzman-gorusu/bobrek-ve-ureme-sistemi",
+    "cover": "/images/editorial/2-uzman-gorusu--bobrek-ve-ureme-sistemi.svg",
+    "subject": "kidneys",
+    "procedure": "opinion",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "blog/prostat-fuzyon-biyopsi-nedir",
+    "cover": "/images/editorial/blog--prostat-fuzyon-biyopsi-nedir.svg",
+    "subject": "prostate",
+    "procedure": "fusion",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "blog/biyopsi-oncesi-hangi-sorulari-sormalisiniz",
+    "cover": "/images/editorial/blog--biyopsi-oncesi-hangi-sorulari-sormalisiniz.svg",
+    "subject": "report",
+    "procedure": "questions",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "blog/ultrason-randevusuna-hazirlik",
+    "cover": "/images/editorial/blog--ultrason-randevusuna-hazirlik.svg",
+    "subject": "scanner",
+    "procedure": "preparation",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  },
+  {
+    "slug": "blog/ikinci-gorus-icin-goruntuler",
+    "cover": "/images/editorial/blog--ikinci-gorus-icin-goruntuler.svg",
+    "subject": "report",
+    "procedure": "records",
+    "style": "editorial-line-v1",
+    "use": "Decorative topic pictogram; not a diagnostic illustration"
+  }
+]

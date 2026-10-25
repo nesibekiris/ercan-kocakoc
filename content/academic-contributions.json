@@ -1,0 +1,397 @@
+{
+  "source": "User-provided academic CV attachment, 2026-10-25",
+  "citationMeasurementDate": null,
+  "citations": [
+    "SSCI, AHCI ve SCI’e giren dergilerde yayınlanmış makalelerde adayın ismine ve değişik çalışmalarına (117 adet çalışma) SSCI, AHCI ve SCI’e giren dergilerde yapılan atıflar 1116 adet (12 doçentlik öncesi, 1104 doçentlik sonrası)",
+    "Scopus verilerine göre 120 çalışmanın 117’sine 1116 atıf yapılmış olup h-indexi 19‘dur",
+    "Google Akademik verilerine göre 120 çalışmaya 2257 atıf yapılmış olup h-indexi 27’dir",
+    "SCI verilerine göre 103 çalışmaya 1056 atıf yapılmış olup h-indexi 18’dir."
+  ],
+  "talks": [
+    {
+      "id": 1,
+      "text": "Üriner ve genital sistemde BT uygulamaları. Türk Radyoloji Kongresi, TURKRAD 2006 (27. Ulusal Radyoloji Kongresi; 11-15 Ekim 2006, Antalya)",
+      "year": "2006"
+    },
+    {
+      "id": 2,
+      "text": "Benign prostat hiperplazisinde görüntüleme. Genitoüriner Alt Çalışma Grubu \"Prostat Bezi ve Hastalıklarının Radyolojik Görüntülemesi\" kursu 14 Nisan 2007; Hacettepe Üniversitesi, Ankara",
+      "year": "2007"
+    },
+    {
+      "id": 3,
+      "text": "El bileğimde şişlik var. Romatizma olabilir mi? Romatoid artritte PDUS. Türk Radyoloji Kongresi, TURKRAD 2007 (28. Ulusal Radyoloji Kongresi; 27-31 Ekim 2007, Antalya)",
+      "year": "2007"
+    },
+    {
+      "id": 4,
+      "text": "Renal MR uygulamaları. Türk Radyoloji Kongresi, TURKRAD 2007 (28. Ulusal Radyoloji Kongresi; 27-31 Ekim 2007, Antalya)",
+      "year": "2007"
+    },
+    {
+      "id": 5,
+      "text": "Nasıl yapıyorum? BT Ürografi. Türk Radyoloji Kongresi, TURKRAD 2008 (29. Ulusal Radyoloji Kongresi; 1-5 Kasım 2008, Antalya)",
+      "year": "2008"
+    },
+    {
+      "id": 6,
+      "text": "İntrahepatik safra kanal dilatasyonlarında ultrason ile tanı. Türk Radyoloji Kongresi, TURKRAD 2008 (29. Ulusal Radyoloji Kongresi; 1-5 Kasım 2008, Antalya).",
+      "year": "2008"
+    },
+    {
+      "id": 7,
+      "text": "Film okuma oturumu (Abdominal Radyoloji). Türk Radyoloji Kongresi, TURKRAD 2008 (29. Ulusal Radyoloji Kongresi; 1-5 Kasım 2008, Antalya).",
+      "year": "2008"
+    },
+    {
+      "id": 8,
+      "text": "Yüzeyel Dokularda Doppler US. Doppler Ultrasonografi Kursu 2-3 Mayıs 2009 Ankara",
+      "year": "2009"
+    },
+    {
+      "id": 9,
+      "text": "İnferior vena kava, mezenterik ve abdominal aorta Doppler US. Doppler Ultrasonografi Kursu 2-3 Mayıs 2009 Ankara",
+      "year": "2009"
+    },
+    {
+      "id": 10,
+      "text": "Böbrek tümörü tanısı nasıl konulur? Biyopsi ne zaman yapılmalıdır? Türk Radyoloji Kongresi, TURKRAD 2009 (30. Ulusal Radyoloji Kongresi; 4-9 Kasım 2009, Antalya)",
+      "year": "2009"
+    },
+    {
+      "id": 11,
+      "text": "Böbrek Tümörleri. TRD Bursa Şubesi; Ercan TUNCEL Uludağ Radyoloji Günleri (27-28 Mart 2010, Bursa)",
+      "year": "2010"
+    },
+    {
+      "id": 12,
+      "text": "Birinci Trimester Kanamalarda Ultrasonografi. TRD Ankara Şubesi; Kadın Hastalıklarında Görüntüleme Sempozyumu (17 Nisan 2010, Ankara)",
+      "year": "2010"
+    },
+    {
+      "id": 13,
+      "text": "Safra Yolu Dilatasyonuna Sonografik Yaklaşım. TRD Ankara Şubesi; Hepatopankreatikobiliyer Sistem Radyolojisi Sempozyumu (15 Mayıs 2010, Ankara); Toplantı Başkanı ve Konuşmacı.",
+      "year": "2010"
+    },
+    {
+      "id": 14,
+      "text": "Yüzeyel Dokularda Doppler US. Doppler Ultrasonografi Kursu 9-10 Ekim 2010 İstanbul",
+      "year": "2010"
+    },
+    {
+      "id": 15,
+      "text": "İnferior vena kava, mezenterik ve abdominal aorta Doppler US. Doppler Ultrasonografi Kursu 9-10 Ekim 2010 İstanbul.",
+      "year": "2010"
+    },
+    {
+      "id": 16,
+      "text": "Renal Lojda Rastlantısal Ortaya Çıkan Kitleler Nasıl Değerlendirilir? Türk Radyoloji Kongresi, TURKRAD 2010 (31. Ulusal Radyoloji Kongresi; 7-12 Kasım 2010, Antalya)",
+      "year": "2010"
+    },
+    {
+      "id": 17,
+      "text": "BT Fiziği. Radyoloji Kış Okulları 16-21 Aralık 2010, Antalya",
+      "year": "2010"
+    },
+    {
+      "id": 18,
+      "text": "Akut Batın Radyoloji Kış Okulları 16-21 Aralık 2010, Antalya",
+      "year": "2010"
+    },
+    {
+      "id": 19,
+      "text": "Doppler US uygulamaları. Radyoloji Kış Okulları 16-21 Aralık 2010, Antalya",
+      "year": "2010"
+    },
+    {
+      "id": 20,
+      "text": "Üriner Sistem Radyolojisi. Radyoloji Kış Okulları 16-21 Aralık 2010, Antalya",
+      "year": "2010"
+    },
+    {
+      "id": 21,
+      "text": "GİS Radyolojisi. Radyoloji Kış Okulları 16-21 Aralık 2010, Antalya",
+      "year": "2010"
+    },
+    {
+      "id": 22,
+      "text": "Ürogenital sistemde difüzyon MR. TRD Ankara Şubesi; Genitoüriner Onkolojik Radyoloji Sempozyumu (12 Mart 2011, Ankara)",
+      "year": "2011"
+    },
+    {
+      "id": 23,
+      "text": "HSK tanı evreleme ve takipte görüntüleme. 17-18 Mart  2011 - 6. Girişimsel  Radyoloji  Yıllık  Kongresi – Antalya",
+      "year": "2011"
+    },
+    {
+      "id": 24,
+      "text": "Sanal PET: Temel Uygulamalar. 08 Nisan 2011 -  3.Ulusal Gastrointestinal Onkoloji  Kongresi -  Antalya",
+      "year": "2011"
+    },
+    {
+      "id": 25,
+      "text": "Hands-On Renal Artery Doppler Ultrasound . 14 -17 Nisan 2011- AIUM 2011 Amerika Ultrason Kongresi; New York, USA",
+      "year": "2011"
+    },
+    {
+      "id": 26,
+      "text": "Renal patolojilerde tanı karakterizasyon ve evreleme. 19-21 Mayıs  2011- Türk  Manyetik Rezonans Derneği 16.  Yıllık Toplantısı – Harbiye  Kongre  Merkezi , İstanbul",
+      "year": "2011"
+    },
+    {
+      "id": 27,
+      "text": "Adrenal lezyonlarda MRG. 19-21 Mayıs  2011- Türk  Manyetik Rezonans Derneği 16.  Yıllık Toplantısı – Harbiye  Kongre  Merkezi, İstanbul",
+      "year": "2011"
+    },
+    {
+      "id": 28,
+      "text": "Renal tumor evaluation: is biopsy necessary? Radiology in İstanbul 19-23 Eylul 2011, İstanbul",
+      "year": "2011"
+    },
+    {
+      "id": 29,
+      "text": "CT Urography. Radiology in İstanbul 19-23 Eylul 2011, İstanbul",
+      "year": "2011"
+    },
+    {
+      "id": 30,
+      "text": "CT imaging of adrenals. ESUR 2011 13-16 Ekim 2011 Dubrovnik, Hırvatistan",
+      "year": "2011"
+    },
+    {
+      "id": 31,
+      "text": "Tipik bulgular ve işaretler: Adrenal bez, böbrek, üriner trakt. TURKRAD 2011, 32. Ulusal Radyoloji Kongresi,  28 Ekim – 2 Kasım 2011, Antalya",
+      "year": "2011"
+    },
+    {
+      "id": 32,
+      "text": "Yüzeyel Dokularda Doppler US. Doppler Ultrasonografi Kursu 10-11 Aralık 2011 Ankara",
+      "year": "2011"
+    },
+    {
+      "id": 33,
+      "text": "İnferior vena kava, mezenterik ve abdominal aorta Doppler US. Doppler Ultrasonografi Kursu 10-11 Aralık 2011 Ankara",
+      "year": "2011"
+    },
+    {
+      "id": 34,
+      "text": "Pankreas tümörlerinde evreleme. Türk Gastroenteroloji Derneği İstanbul Şube Toplantısı 28 Aralık 2011 İstanbul",
+      "year": "2011"
+    },
+    {
+      "id": 35,
+      "text": "BT Fiziği. Radyoloji Kış Okulları 5-6 Ocak 2012, Antalya",
+      "year": "2012"
+    },
+    {
+      "id": 36,
+      "text": "Üriner Sistem Radyolojisi-1. Radyoloji Kış Okulları 5-6 Ocak 2012, Antalya",
+      "year": "2012"
+    },
+    {
+      "id": 37,
+      "text": "Üriner Sistem Radyolojisi-2. Radyoloji Kış Okulları 5-6 Ocak 2012, Antalya",
+      "year": "2012"
+    },
+    {
+      "id": 38,
+      "text": "Akut Batın. Radyoloji Kış Okulları 5-6 Ocak 2012, Antalya",
+      "year": "2012"
+    },
+    {
+      "id": 39,
+      "text": "Ürogenital Sistemde Difüzyon MRG. Türk Radyoloji Derneği  Adana Şubesi Ürogenital Sistem Tümörlerinde Görüntüleme Toplantısı. 31 Mart 2012 Adana",
+      "year": "2012"
+    },
+    {
+      "id": 40,
+      "text": "Pankreas radyolojisi.  Türk Radyoloji Derneği İstanbul Şube Toplantısı Radyolog-Gastroenterolog Sinerjisi Toplantısı.  9 Haziran 2012-İstanbul",
+      "year": "2012"
+    },
+    {
+      "id": 41,
+      "text": "Adrenal kitle lezyonlarında radyolojik ayırıcı tanı. Türk Radyoloji Derneği İstanbul Şube Toplantısı 26 Ağustos 2012-İstanbul",
+      "year": "2012"
+    },
+    {
+      "id": 42,
+      "text": "Trauma of the upper urinary tract. ESUR 2012 13-16 Ekim 2012 Edinburgh, İskoçya (UK)",
+      "year": "2012"
+    },
+    {
+      "id": 43,
+      "text": "Endometriozis. TURKRAD 2012 Türk Radyoloji Kongresi, 7 Kasım – 11 Kasım 2012, Antalya",
+      "year": "2012"
+    },
+    {
+      "id": 44,
+      "text": "Endometriozis. Temel Genitoüriner Radyoloji Sempozyumu, 19 Ocak 2013, TRD Ankara Şubesi, Ankara",
+      "year": "2013"
+    },
+    {
+      "id": 45,
+      "text": "Case Based Review: Imaging of Focal Liver Lesions and Patterns of Disease. İstanbul Liver Imaging Meeting, 7-10 Nisan 2013, İstanbul",
+      "year": "2013"
+    },
+    {
+      "id": 46,
+      "text": "Sağ alt kadran ağrısı. 9. Ulusal travma ve Acil Cerrahi Kongresi. 19-23 Nisan 2013, Antalya.",
+      "year": "2013"
+    },
+    {
+      "id": 47,
+      "text": "Olgu temelli adrenal lezyonları: Benign? Malign? 23-25 Mayıs  2013- Türk  Manyetik Rezonans Derneği 18.  Yıllık Toplantısı – Ankara",
+      "year": "2013"
+    },
+    {
+      "id": 48,
+      "text": "Endometriozis. 23-25 Mayıs  2013- Türk  Manyetik Rezonans Derneği 18.  Yıllık Toplantısı – Ankara",
+      "year": "2013"
+    },
+    {
+      "id": 49,
+      "text": "Sürrenal kitlelerine tanı-tedavi ve takipte radyolojik yaklaşım. Türk Radyoloji Derneği İstanbul Şube Toplantısı 25 Ağustos 2013-İstanbul",
+      "year": "2013"
+    },
+    {
+      "id": 50,
+      "text": "Imaging of the Patient with Hematuria: Non-contrast CT and CT Urography ESUR 2013, 19-22 Eylül 2013, İstanbul (TR)",
+      "year": "2013"
+    },
+    {
+      "id": 51,
+      "text": "Pankreatit Tanı, Evreleme ve Takibinde Radyoloji. Türk Radyoloji Derneği İstanbul Şube Toplantısı 29 Eylül 2013-İstanbul",
+      "year": "2013"
+    },
+    {
+      "id": 52,
+      "text": "Renal hücreli karsinom. TURKRAD 2013 34. Ulusal Radyoloji Kongresi, 6 Kasım – 10 Kasım 2013, Antalya",
+      "year": "2013"
+    },
+    {
+      "id": 53,
+      "text": "Böbrek tümörlerinde görüntüleme. Güncel Radyolojik Uygulamalar Sempozyumu. Türk Radyoloji Derneği Erzurum Şube Toplantısı 1 Mart 2014- Erzurum",
+      "year": "2014"
+    },
+    {
+      "id": 54,
+      "text": "Endometriozis. Güncel Radyolojik Uygulamalar Sempozyumu. Türk Radyoloji Derneği Erzurum Şube Toplantısı 1 Mart 2014- Erzurum",
+      "year": "2014"
+    },
+    {
+      "id": 55,
+      "text": "Unusual Liver Mass: Case-based Review. SAR 2014 Annual Scientific Meeting and Educational Course. 23-28 Mart 2014; Boca Raton, Florida (USA)",
+      "year": "2014"
+    },
+    {
+      "id": 56,
+      "text": "Yüzeyel Dokularda Doppler US. Doppler Ultrasonografi Kursu 10-11 Mayıs 2014 Ankara",
+      "year": "2014"
+    },
+    {
+      "id": 57,
+      "text": "İnferior vena kava, mezenterik ve abdominal aorta Doppler US. Doppler Ultrasonografi Kursu 10-11 Mayıs 2014 Ankara",
+      "year": "2014"
+    },
+    {
+      "id": 58,
+      "text": "Böbrek lezyonları. 22-24 Mayıs  2014- Türk  Manyetik Rezonans Derneği 19.  Yıllık Toplantısı – Ankara",
+      "year": "2014"
+    },
+    {
+      "id": 59,
+      "text": "Derin endometriozis. 22-24 Mayıs  2014- Türk  Manyetik Rezonans Derneği 19.  Yıllık Toplantısı – Ankara",
+      "year": "2014"
+    },
+    {
+      "id": 60,
+      "text": "Böbreğin solid kitleleri. 1 Kasım 2014. Genitoüriner Radyoloji Sempozyumu. Türk Radyoloji Derneği. Elazığ",
+      "year": "2014"
+    },
+    {
+      "id": 61,
+      "text": "Böbreğin  solid kitlelerine yaklaşım. TURKRAD 2014, 35. Ulusal Radyoloji Kongresi, 11 Kasım – 16 Kasım 2014, Antalya",
+      "year": "2014"
+    },
+    {
+      "id": 62,
+      "text": "Unusual liver lesions including uncommon mimics of common lesions. SAR 2015 Annual Scientific Meeting and Educational Course. 22-27 March 2015; Coronado (San Diego), California (USA)",
+      "year": "2015"
+    },
+    {
+      "id": 63,
+      "text": "Hands-on US guided Interventions: Practical Course 1: Thyroid-Breast-Liver biopsies and Tumour Ablation. Euroson School. Interventional US and Elastography.14-15 February 2015, Istanbul,Turkey.",
+      "year": "2015"
+    },
+    {
+      "id": 64,
+      "text": "Session 6: Kidney, Pancreas and Spleen Biopsies Chairmen: Prof. Dr. Radu Badea Prof.Dr. Ercan Kocakoç. Euroson School. Interventional US and Elastography.14-15 February 2015, Istanbul, Turkey.",
+      "year": "2015"
+    },
+    {
+      "id": 65,
+      "text": "Image challenge: Diagnosis please. Abdomen. GAST 2015. Innsbruck, Austria, May 1-2, 2015. 4th Joint Meeting of the German, Austrian Turkish Radiological Societies.",
+      "year": "2015"
+    },
+    {
+      "id": 66,
+      "text": "Case Based Review. Istanbul Liver Imaging Meeting, 8-10 April 2015, İstanbul",
+      "year": "2015"
+    },
+    {
+      "id": 67,
+      "text": "Sirozda karaciğer lezyonlarının değerlendirilmesi. 21-23 Mayıs  2015- Türk  Manyetik Rezonans Derneği 20.  Yıllık Toplantısı – Ankara",
+      "year": "2015"
+    },
+    {
+      "id": 68,
+      "text": "MRKP ve biliyer hastalıklar. 21-23 Mayıs  2015- Türk  Manyetik Rezonans Derneği 20.  Yıllık Toplantısı – Ankara",
+      "year": "2015"
+    },
+    {
+      "id": 69,
+      "text": "BT ürografide yenilikler. TURKRAD 2015, 36. Ulusal Radyoloji Kongresi, 21 Ekim – 25 Ekim 2015, Antalya",
+      "year": "2015"
+    },
+    {
+      "id": 70,
+      "text": "Abdominal vasculature: imaging and intervention (SS 4) Moderators: Kocakoç E, Brancatelli G.ESGAR 2016, 14-17 JUNE 2016, Prague, Czech Republic",
+      "year": "2016"
+    },
+    {
+      "id": 71,
+      "text": "Adrenal görüntülemede güncel yaklaşım. TURKRAD 2016, 37. Ulusal Radyoloji Kongresi, 1 Kasım – 5 Kasım 2016, Antalya",
+      "year": "2016"
+    },
+    {
+      "id": 72,
+      "text": "Multifokal ve difüz böbrek hastalıklarında görüntüleme. TURKRAD 2016, 37. Ulusal Radyoloji Kongresi, 1 Kasım – 5 Kasım 2016, Antalya",
+      "year": "2016"
+    },
+    {
+      "id": 73,
+      "text": "Nanoknife. MEMORİAL BİLİMSEL TOPLANTILARI -13. Videolar Eşliğinde Her Yönüyle Prostat Cerrahisi. 26 Mayıs 2021/Online.",
+      "year": "2021"
+    },
+    {
+      "id": 74,
+      "text": "Rektum kanserinde ameliyat öncesi evreleme. 15.Ulusal/2.Uluslararası Endoskopik Laparoskopik Cerrahi Kongresi. 28 -31 Ekim 2021, Antalya",
+      "year": "2021"
+    },
+    {
+      "id": 75,
+      "text": "Karaciğer kist hidatiği: Girişimsel radyolojinin rolü. 15.Ulusal/2.Uluslararası Endoskopik Laparoskopik Cerrahi Kongresi. 28 -31 Ekim 2021, Antalya",
+      "year": "2021"
+    }
+  ],
+  "panels": [
+    "Bezmialem Cerrahi Toplantısı: Kolorektal Kanser Workshop, 2-3 Haziran 2011 İstanbul (panelist)",
+    "Bezmialem Vakıf Üniversitesi 1. Radyoloji Günleri, 22 Kasım 2011 İstanbul (oturum başkanı)",
+    "Bezmialem – Cleveland Günleri: Nöroendokrin Tümörlere Güncel Yaklaşım, 22 Mayıs 2012 İstanbul (panelist)",
+    "EUS – ERCP WORKSHOP 6-7 Aralık 2013 İstanbul (Organizasyon komitesi üyesi)",
+    "Birlikte radyoloji asistan okulu: BT fiziği ve olgular 3 Aralık 2013, 19 Mart 2014 (Eğitici)",
+    "ESOR –ESGAR Exchange Programme for Fellowships 2013. Abdominal Radiology Training Center 2013 (Bezmialem Vakif University; Istanbul –TR; Tutor: E.Kocakoc)",
+    "ESOR –ESGAR Exchange Programme for Fellowships 2014. Abdominal Radiology Training Center 2014 (Bezmialem Vakif University; Istanbul –TR; Tutor: E.Kocakoc)"
+  ],
+  "sourceFormattingNote": ""
+}

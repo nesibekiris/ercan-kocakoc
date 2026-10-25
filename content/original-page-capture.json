@@ -1,0 +1,132 @@
+[
+  {
+    "slug": "biyopsi/prostat-fuzyon-biyopsi",
+    "bytes": 104343,
+    "ok": true
+  },
+  {
+    "slug": "biyopsi/pankreas-biyopsi",
+    "bytes": 37058,
+    "ok": true
+  },
+  {
+    "slug": "biyopsi/meme-biyopsi",
+    "bytes": 35511,
+    "ok": true
+  },
+  {
+    "slug": "biyopsi/lenf-bezi-biyopsi",
+    "bytes": 38317,
+    "ok": true
+  },
+  {
+    "slug": "biyopsi/tiroid-biyopsi",
+    "bytes": 32791,
+    "ok": true
+  },
+  {
+    "slug": "biyopsi/kemik-biyopsi",
+    "bytes": 30399,
+    "ok": true
+  },
+  {
+    "slug": "biyopsi/akciger-biyopsi",
+    "bytes": 41087,
+    "ok": true
+  },
+  {
+    "slug": "biyopsi/yumusak-doku-biyopsi",
+    "bytes": 34379,
+    "ok": true
+  },
+  {
+    "slug": "biyopsi/karaciger-biyopsi",
+    "bytes": 40144,
+    "ok": true
+  },
+  {
+    "slug": "tedaviler/karaciger-tumor-ablasyon-tedavisi",
+    "bytes": 71502,
+    "ok": true
+  },
+  {
+    "slug": "tedaviler/kemoembolizasyon",
+    "bytes": 30865,
+    "ok": true
+  },
+  {
+    "slug": "tedaviler/diger-bolgelerdeki-tumor-embolizasyonu",
+    "bytes": 46825,
+    "ok": true
+  },
+  {
+    "slug": "tedaviler/radyoembolizasyon-tedavisi",
+    "bytes": 34226,
+    "ok": true
+  },
+  {
+    "slug": "tedaviler/perkutan-kolesistostomi",
+    "bytes": 33602,
+    "ok": true
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/gebelik-ultrasonu",
+    "bytes": 32495,
+    "ok": true
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/karaciger-ultrasonu",
+    "bytes": 31385,
+    "ok": true
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/meme-ultrasonu",
+    "bytes": 29487,
+    "ok": true
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/karin-ultrasonu",
+    "bytes": 31288,
+    "ok": true
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/tiroid-ultrasonu",
+    "bytes": 27458,
+    "ok": true
+  },
+  {
+    "slug": "ultrason-girisimsel-radyoloji/uriner-sistem-ve-urogenital-ultrason",
+    "bytes": 33905,
+    "ok": true
+  },
+  {
+    "slug": "2-uzman-gorusu/abdomen-karin-bolgesi-tanisal-2-gorus",
+    "bytes": 41750,
+    "ok": true
+  },
+  {
+    "slug": "2-uzman-gorusu/karin-bolgesi-radyolojisi",
+    "bytes": 60494,
+    "ok": true
+  },
+  {
+    "slug": "2-uzman-gorusu/bobrek-ve-ureme-sistemi",
+    "bytes": 109553,
+    "ok": true
+  },
+  {
+    "slug": "en",
+    "bytes": 76155,
+    "ok": true
+  },
+  {
+    "slug": "video-galeri",
+    "bytes": 44155,
+    "ok": true
+  },
+  {
+    "slug": "fotograf-galeri",
+    "bytes": 27206,
+    "ok": true
+  }
+]
