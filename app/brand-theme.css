@@ -122,11 +122,11 @@
 .social-video-columns .youtube-video-column>.video-grid{grid-template-columns:1fr;gap:24px}
 .home-v5 .social-video-columns .video-card{flex:0 0 100%;min-width:0}
 .home-v5 .social-video-columns .video-copy h3{font-size:25px;line-height:1.35}
-.instagram-feed-frame{background:#fff;border:1px solid #d5e3e9;border-radius:12px;min-height:420px;max-height:620px;overflow:auto;color:#173849;width:100%}
-.instagram-feed-frame>div{width:100%;min-height:400px}
+.instagram-feed-frame{background:#fff;border:1px solid #d5e3e9;border-radius:12px;min-height:0;max-height:none;overflow:hidden;color:#173849;width:100%}
+.instagram-feed-frame>iframe{display:block;width:100%;height:600px;border:0}
 .instagram-profile-link{display:inline-flex;margin-top:16px;font:500 13px/1.5 ui-sans-serif,system-ui,sans-serif;text-decoration:underline;text-underline-offset:4px}
 .home-v5 .instagram-profile-link{color:#d0e8f1}
-@media(max-width:800px){.social-video-columns{grid-template-columns:1fr;gap:34px}.social-video-columns .social-video-heading{font-size:20px}.instagram-feed-frame{max-height:590px;min-height:380px}.home-v5 .social-video-columns .video-copy h3{font-size:23px}}
+@media(max-width:800px){.social-video-columns{grid-template-columns:1fr;gap:34px}.social-video-columns .social-video-heading{font-size:20px}.home-v5 .social-video-columns .video-copy h3{font-size:23px}}
 /* Larger archive controls with the same clean type used by the topic cards. */
 .archive-content-types button,.archive-toolbar .filter-chips>button{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
 .archive-content-types button{border-radius:10px;background:#fff;padding:18px 20px;gap:16px;min-height:78px}
