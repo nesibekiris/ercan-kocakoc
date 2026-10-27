@@ -35,6 +35,19 @@
 .organ-tone-4{background:#236b8a}
 .organ-tone-5{background:#246f76}
 .organ-tile:hover{box-shadow:0 10px 24px #17384922}
+/* Consistent blue/teal symbols and sans-serif typography for the topic chooser. */
+.ultrasound-topics{background:#f2f7fa;padding:48px 0 50px}
+.ultrasound-topics .ultrasound-overview-heading h2{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:31px;font-weight:600;letter-spacing:-.8px;line-height:1.3;color:var(--brand-navy)}
+.ultrasound-topics .ultrasound-overview-heading .eyebrow{font-family:ui-sans-serif,system-ui,sans-serif;font-size:11px;font-weight:650;letter-spacing:1.5px;margin-bottom:10px;color:var(--brand-teal)}
+.ultrasound-topics .text-link{font-family:ui-sans-serif,system-ui,sans-serif;font-size:13px;font-weight:600;color:var(--brand-blue)}
+.ultrasound-topics .organ-tile{background:#fff;color:var(--brand-navy);border:1px solid #d4e3eb;border-radius:14px;box-shadow:0 3px 12px #17384904;min-height:216px;padding:25px 12px 21px;gap:14px;transition:transform .2s,border-color .2s,box-shadow .2s}
+.ultrasound-topics .organ-tile:hover{background:#fff;border-color:#78acbf;box-shadow:0 10px 25px #1738490c;transform:translateY(-3px)}
+.ultrasound-topics .organ-symbol{display:grid;place-items:center;width:78px;height:78px;border-radius:22px;background:#edf5f8;color:var(--brand-teal);flex:none}
+.ultrasound-topics .organ-tile>.organ-label{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:15px;font-weight:600;line-height:1.4;letter-spacing:-.15px;min-height:42px;max-width:none;text-align:center}
+.ultrasound-topics .organ-tile>small{font-family:ui-sans-serif,system-ui,sans-serif;font-size:11px;line-height:1.5;text-align:center;color:#566f7c}
+.ultrasound-topics .organ-tile>svg{color:var(--brand-blue);width:14px;height:14px;top:14px;right:14px}
+@media(max-width:1100px){.ultrasound-topics .ultrasound-organ-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.ultrasound-topics .organ-tile{min-height:210px}}
+@media(max-width:650px){.ultrasound-topics{padding:34px 0}.ultrasound-topics .ultrasound-overview-heading h2{font-size:26px;max-width:320px}.ultrasound-topics .ultrasound-organ-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.ultrasound-topics .organ-tile{padding:22px 10px 19px;min-height:205px}.ultrasound-topics .organ-symbol{width:68px;height:68px;border-radius:19px}.ultrasound-topics .organ-symbol svg{width:48px;height:48px}.ultrasound-topics .organ-tile>.organ-label{font-size:14px}.ultrasound-topics .organ-tile>small{font-size:10px}}
 .topic-ultrason-girisimsel-radyoloji>.page-heading{background:var(--brand-aqua)}
 .topic-ultrason-girisimsel-radyoloji .page-heading .eyebrow{color:#185c6b}
 .topic-tedaviler>.page-heading{background:var(--brand-leaf)}
@@ -85,5 +98,44 @@
 .professor-portrait-caption{flex-wrap:wrap;gap:8px 18px;min-width:0;flex-shrink:0;text-align:center}
 .portrait-vertical{right:9px;max-height:80%;font-size:6px;letter-spacing:1.2px;white-space:nowrap}
 .portrait-corner{display:none}
+/* A short preparation band replaces the large stock-photo feature. */
+.consultation-prep-inner{display:grid;grid-template-columns:230px minmax(0,1fr);gap:30px;align-items:start;padding:27px 28px;border:1px solid #d5e3e9;border-radius:12px;background:#f5f9fb}
+.consultation-prep-heading .eyebrow{margin-bottom:10px;font-size:10px}
+.consultation-prep-heading h2{font:600 25px/1.3 ui-sans-serif,system-ui,sans-serif;letter-spacing:-.6px;white-space:normal}
+.consultation-prep ol{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;list-style:none;margin:0;padding:0}
+.consultation-prep li{display:flex;gap:12px;align-items:start}
+.consultation-prep .prep-number{display:grid;place-items:center;width:30px;height:30px;flex:0 0 30px;border-radius:50%;background:#e1eef3;color:var(--brand-blue);font:600 11px/1 ui-sans-serif,system-ui,sans-serif}
+.consultation-prep h3{font:600 14px/1.5 ui-sans-serif,system-ui,sans-serif;letter-spacing:0;margin:1px 0 8px}
+.consultation-prep p{font-size:13px;line-height:1.7;margin:0}
+@media(max-width:1100px){.consultation-prep-inner{grid-template-columns:1fr;gap:23px}.consultation-prep-heading h2{font-size:24px}}
+@media(max-width:700px){.consultation-prep-inner{padding:23px 20px;gap:22px}.consultation-prep ol{grid-template-columns:1fr;gap:18px}.consultation-prep h3{font-size:14px;margin-bottom:4px}.consultation-prep-heading h2{font-size:23px}}
+/* YouTube and the supplied Instagram Reels feed share the video section. */
+.social-video-columns{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:32px;align-items:start}
+.social-video-columns>div{min-width:0}
+.social-video-columns .social-video-heading{display:flex;align-items:center;gap:11px;font:600 21px/1.4 ui-sans-serif,system-ui,sans-serif;letter-spacing:-.3px;margin:0 0 20px;white-space:normal}
+.social-video-columns .youtube-video-column>.video-grid{grid-template-columns:1fr;gap:24px}
+.home-v5 .social-video-columns .video-card{flex:0 0 100%;min-width:0}
+.home-v5 .social-video-columns .video-copy h3{font-size:25px;line-height:1.35}
+.instagram-feed-frame{background:#fff;border:1px solid #d5e3e9;border-radius:12px;min-height:420px;max-height:620px;overflow:auto;color:#173849;width:100%}
+.instagram-feed-frame>div{width:100%;min-height:400px}
+.instagram-profile-link{display:inline-flex;margin-top:16px;font:500 13px/1.5 ui-sans-serif,system-ui,sans-serif;text-decoration:underline;text-underline-offset:4px}
+.home-v5 .instagram-profile-link{color:#d0e8f1}
+@media(max-width:800px){.social-video-columns{grid-template-columns:1fr;gap:34px}.social-video-columns .social-video-heading{font-size:20px}.instagram-feed-frame{max-height:590px;min-height:380px}.home-v5 .social-video-columns .video-copy h3{font-size:23px}}
+/* Larger archive controls with the same clean type used by the topic cards. */
+.archive-content-types button,.archive-toolbar .filter-chips>button{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
+.archive-content-types button{border-radius:10px;background:#fff;padding:18px 20px;gap:16px;min-height:78px}
+.archive-content-types b{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:32px;font-weight:600;line-height:1.1;letter-spacing:-1px;font-variant-numeric:tabular-nums}
+.archive-content-types span{font-size:15px;font-weight:500;line-height:1.45}
+.archive-content-types button.active,.archive-content-types button:hover{background:#eaf4f8;border-color:#78a7bc}
+.archive-toolbar .filter-chips{gap:10px}
+.archive-toolbar .filter-chips>button{font-size:15px;font-weight:500;line-height:1.4;padding:12px 18px;min-height:46px}
+.archive-toolbar .filter-chips>button.active,.archive-toolbar .filter-chips>button:hover{background:var(--brand-blue);border-color:var(--brand-blue)}
+/* Tighter vertical rhythm between the home page sections. */
+.home-v5>.section{padding-block:48px}
+.home-v5>.clinical-feature,.home-v5>.research-feature,.home-v5>.journal-section,.home-v5>.home-videos{padding-block:44px}
+.home-v5>.ultrasound-topics{padding-block:36px}
+.home-v5 .section-title{margin-bottom:26px}
+.home-v5>.cta-section{padding-block:44px}
+@media(max-width:700px){.archive-content-types button{padding:14px 16px;min-height:65px}.archive-content-types b{font-size:28px}.archive-content-types span{font-size:14px}.archive-toolbar .filter-chips>button{font-size:14px;padding:11px 15px;min-height:44px}.home-v5>.section{padding-block:32px}.home-v5>.clinical-feature,.home-v5>.research-feature,.home-v5>.journal-section,.home-v5>.home-videos{padding-block:32px}.home-v5>.ultrasound-topics{padding-block:28px}.home-v5>.cta-section{padding-block:34px}.home-v5 .section-title{margin-bottom:23px}}
 @media(min-width:701px) and (max-width:1100px){.professor-portrait{min-height:385px;padding:20px 18px 16px}.professor-portrait>img{height:300px;max-height:300px}.professor-hero-grid{gap:26px}}
 @media(max-width:700px){.professor-hero-grid{grid-template-columns:minmax(0,1fr)}.professor-portrait{width:min(100%,340px);max-width:340px;min-height:345px;height:auto;justify-self:center;padding:16px 20px 14px;border-radius:140px 140px 12px 12px}.professor-portrait>img{width:100%;height:270px;max-height:270px}.professor-portrait-caption{margin-top:8px;padding-top:13px;font-size:9px}.portrait-vertical{right:7px;font-size:6px;letter-spacing:.8px}}
