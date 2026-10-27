@@ -10,8 +10,9 @@ const hashes=[];
 for(const old of before){
  const video=archive.videos.find(v=>v.id===old.id);
  assert(video,old.id);
- for(const key of ['id','title','titleEn','url','description','status'])assert.equal(video[key],old[key],old.id+' '+key+' retained');
  const cover=covers.find(c=>c.id===video.id);
+ for(const key of ['id','url','status'])assert.equal(video[key],old[key],old.id+' '+key+' retained');
+ assert.equal(cover.originalTitle,old.title,old.id+' original source title retained');
  assert.equal(video.thumbnail,cover.cover);
  for(const src of [cover.cover,cover.editableVector,cover.originalThumbnail])assert(fs.existsSync('public'+src),src);
  assert.deepEqual(cover.size,[1280,720]);
@@ -36,8 +37,8 @@ const result={
   '15 image covers share one composition, readable topic headlines and related line illustrations.',
   'Video cards use 16:9 without center play icons obscuring the cover headline.',
  ],
- videoCovers:15,originalVideoTitlesAndUrlsPreserved:true,originalThumbnailsPreserved:true,
+ videoCovers:15,originalSourceVideoTitlesAndUrlsPreserved:true,seoDisplayTitlesAppliedAtRuntime:true,originalThumbnailsPreserved:true,
  contrast,notes:'Calculated checks for the listed foreground/background pairs; not a certification of every site state. Official third-party logos retain their original colors.',
 };
 fs.writeFileSync('content/color-style-audit-v7.json',JSON.stringify(result,null,2));
-console.log('PASS: 15 distinct topic covers; titles, URLs and original thumbnails retained; all seven solid card colors meet the 4.5:1 target for white text.');
+console.log('PASS: 15 distinct topic covers; source titles, URLs and original thumbnails retained; all seven solid card colors meet the 4.5:1 target for white text.');

@@ -8,7 +8,8 @@
     "Video cards use 16:9 without center play icons obscuring the cover headline."
   ],
   "videoCovers": 15,
-  "originalVideoTitlesAndUrlsPreserved": true,
+  "originalSourceVideoTitlesAndUrlsPreserved": true,
+  "seoDisplayTitlesAppliedAtRuntime": true,
   "originalThumbnailsPreserved": true,
   "contrast": [
     {

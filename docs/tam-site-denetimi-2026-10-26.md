@@ -1,6 +1,7 @@
 # Prof. Dr. Ercan Kocakoç web sitesi tam denetimi
 
-Tarih: 26 Ekim 2026  
+İlk denetim: 26 Ekim 2026  
+Son güncelleme: 27 Ekim 2026  
 Kapsam: Türkçe ve İngilizce 82 URL, 33 içerik sayfası, 27 yazı/tam metin, 15 video, 36 galeri görseli, 240 bilimsel yayın ve 6 tez.
 
 ## Sonuç
@@ -18,6 +19,11 @@ Site; içerik bütünlüğü, başlık hiyerarşisi, teknik SEO, görsel erişil
 | Eksik kaynak kayıtları | Kaynak sitede yarım kalan E40 kaydı yanlış bir başlık üretiyordu. | Kayıt silinmedi; “Kaynak sitede eksik kalan yayın kaydı” olarak dürüst biçimde işaretlendi. |
 | SEO title | Bazı kategori başlıkları fazla genel, “Hakkımda” başlığı tekrarlıydı. | Biyopsi, girişimsel radyoloji, ultrason, ikinci görüş, profil ve akademik sayfa başlık/açıklamaları konu ve arama amacıyla uyumlu hale getirildi. |
 | Hero | Blog ve bilimsel yayın arşivlerinin ana başlıkları görsel hiyerarşide zayıftı. | Masaüstünde akışkan büyük tipografi, mobilde taşmayan ayrı ölçüler uygulandı. |
+| Video başlıkları | YouTube kaynak başlıklarında tamamı büyük harf, kişi adı öneki, dikey çizgi ve arama niyetini anlatmayan ifadeler vardı. | 15 videonun Türkçe ve İngilizce görünen başlıkları konu odaklı hale getirildi; özgün YouTube başlıkları ayrı kaynak alanında korundu. |
+| Video yapılandırılmış verisi | Video arşivinde kayıt bazında makinece okunabilir video listesi yoktu. | 15 kayıt için `ItemList` ve `VideoObject` verisi; ad, açıklama, kapak, YouTube ve gömme adresleriyle eklendi. |
+| Yazı başlıkları | Kart H3, sayfa H1 ve meta title aynı SEO düzenini her yazıda izlemiyordu. | 27 yazı için Türkçe ve İngilizce başlık sözlüğü uygulandı; H1, kart başlığı, breadcrumb ve yapılandırılmış veri eşleştirildi. |
+| Meta açıklamaları | Bazı yazı açıklamaları 59–105 karakterde kalıyor ve kapsamı yeterince anlatmıyordu. | 27 yazının Türkçe meta açıklamaları 122–157 karakter aralığında, özgün özetleri temel alarak düzenlendi. |
+| Kapak ve yazı içi görsel | Blog kartındaki kapak ile yazı açıldığında görünen ana görsel farklıydı; bazı rehberlerde konu dışı eski görsel görünüyordu. | Arşiv kartı, yazı ana görseli, Open Graph görseli ve yapılandırılmış veri aynı konu kapağına bağlandı; 27 benzersiz kapak korundu. |
 
 ## Doğrulanan kontroller
 
@@ -25,6 +31,9 @@ Site; içerik bütünlüğü, başlık hiyerarşisi, teknik SEO, görsel erişil
 - Her sayfada title, meta description, canonical, Türkçe/İngilizce hreflang ve Open Graph alanları.
 - Ana metinlerin JavaScript beklemeden ilk HTML içinde bulunması.
 - 27 farklı Canva tabanlı yazı kapağı ve 15 farklı video kapağı.
+- 27 yazının tamamında kart kapağı ile yazı ana görselinin birebir eşleşmesi.
+- 27 yazıda 48–64 karakterlik SEO title ve 122–157 karakterlik Türkçe meta açıklaması.
+- 15 videoda konu odaklı Türkçe/İngilizce başlık; kaynak başlıkların ayrı alanda korunması.
 - Yerel görsellerde eksik dosya veya eksik alt metin bulunmaması.
 - Uygulama içi kırık bağlantı bulunmaması.
 - 240 yayın kartının tamamında başlık, tam kaynakça ve çalışan yayın/Google Scholar bağlantısı.
