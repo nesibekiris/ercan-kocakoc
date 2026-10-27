@@ -5,11 +5,12 @@ import {seedPages,defaultSettings} from './seed';
 import {getChatGPTUser} from '../chatgpt-auth';
 import type {PageRecord,Settings,Archive} from './types';
 import {applyPageSeo,applyVideoSeo} from './content-seo';
+import {applyEditorialReview} from './content-editorial';
 export function db(){if(!env.DB)throw new Error('Veritabanı bağlantısı bulunamadı.');return env.DB;}
 export const getPages=cache(async (all=false):Promise<PageRecord[]>=>{
  const {results}=env.DB?await db().prepare("SELECT key, value FROM documents WHERE key LIKE 'page:%'").all<{key:string;value:string}>():{results:[] as {key:string;value:string}[]};
  const map=new Map(seedPages.map(p=>[p.slug,p]));for(const r of results)map.set(r.key.slice(5),JSON.parse(r.value));
- return [...map.values()].filter(p=>all?p.status!=='deleted':p.status==='published').map(applyPageSeo);
+ return [...map.values()].filter(p=>all?p.status!=='deleted':p.status==='published').map(applyPageSeo).map(applyEditorialReview);
 });
 export const getSettings=cache(async ():Promise<Settings>=>{const row=env.DB?await db().prepare('SELECT value FROM documents WHERE key = ?').bind('settings').first<{value:string}>():null;return {...defaultSettings,...(row?JSON.parse(row.value):{})};});
 export async function getPage(slug:string){return (await getPages()).find(p=>p.slug===slug);}

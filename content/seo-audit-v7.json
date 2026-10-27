@@ -1,7 +1,7 @@
 {
   "scope": "Built Worker in an isolated D1/R2 environment; not a Google indexing or real-user CWV test",
-  "routes": 82,
-  "articleCovers": 27,
+  "routes": 88,
+  "articleCovers": 30,
   "brokenLocalImages": [],
   "brokenInternalLinks": [],
   "headingIssues": [],
@@ -54,8 +54,8 @@
       "description": "Kaynak siteden eksiksiz aktarılan hekim yazıları ile görüşme ve işlem hazırlığına yönelik editöryal rehberler, içerik türü açıkça belirtilerek sunulur.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/blog",
       "h1": "Radyoloji yazıları ve hasta rehberleri",
-      "headings": 30,
-      "images": 28,
+      "headings": 33,
+      "images": 31,
       "robots": "noindex, nofollow"
     },
     {
@@ -162,8 +162,8 @@
       "description": "MR ve ultrason görüntülerini birleştirerek prostatta şüpheli alanlardan doku örneği alınmasına yardımcı olan yöntem. Hazırlık ve takip sürecini öğrenin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/biyopsi/prostat-fuzyon-biyopsi",
       "h1": "Prostat Füzyon Biyopsisi Nedir, Nasıl Yapılır?",
-      "headings": 35,
-      "images": 4,
+      "headings": 41,
+      "images": 5,
       "robots": "noindex, nofollow"
     },
     {
@@ -174,7 +174,7 @@
       "description": "Pankreasta saptanan bir lezyonun yapısını değerlendirmek için görüntüleme eşliğinde örnekleme. Hazırlık, işlem ve takip süreci hakkında bilgi edinin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/biyopsi/pankreas-biyopsi",
       "h1": "Pankreas Biyopsisi Nedir, Nasıl Yapılır?",
-      "headings": 5,
+      "headings": 14,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -186,7 +186,7 @@
       "description": "Meme görüntülemesinde şüpheli bulunan bir alanın patolojik değerlendirme için örneklenmesi. Hazırlık, işlem ve takip süreci hakkında bilgi edinin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/biyopsi/meme-biyopsi",
       "h1": "Meme Biyopsisi Nedir, Nasıl Yapılır?",
-      "headings": 5,
+      "headings": 11,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -198,8 +198,8 @@
       "description": "Gerekli görülen lenf bezinden tanısal değerlendirme amacıyla doku veya hücre örneği alınması. Hazırlık, işlem ve takip süreci hakkında bilgi edinin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/biyopsi/lenf-bezi-biyopsi",
       "h1": "Lenf Bezi Biyopsisi Nedir, Nasıl Yapılır?",
-      "headings": 5,
-      "images": 1,
+      "headings": 16,
+      "images": 2,
       "robots": "noindex, nofollow"
     },
     {
@@ -210,8 +210,8 @@
       "description": "Ultrason değerlendirmesi ve klinik bulgular doğrultusunda tiroid nodülünden örnek alınması. Hazırlık, işlem ve takip süreci hakkında bilgi edinin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/biyopsi/tiroid-biyopsi",
       "h1": "Tiroid Biyopsisi Nedir, Nasıl Yapılır?",
-      "headings": 5,
-      "images": 1,
+      "headings": 13,
+      "images": 2,
       "robots": "noindex, nofollow"
     },
     {
@@ -222,7 +222,7 @@
       "description": "Kemikteki bir lezyondan görüntüleme rehberliğinde tanısal örnek alınması. Hazırlık, işlem ve takip süreci hakkında bilgi edinin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/biyopsi/kemik-biyopsi",
       "h1": "Kemik Biyopsisi Nedir, Nasıl Yapılır?",
-      "headings": 5,
+      "headings": 11,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -234,8 +234,8 @@
       "description": "Akciğerdeki uygun bir lezyondan görüntüleme eşliğinde doku örneği alınması. Hazırlık, işlem ve takip süreci hakkında bilgi edinin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/biyopsi/akciger-biyopsi",
       "h1": "Akciğer Biyopsisi Nedir, Nasıl Yapılır?",
-      "headings": 5,
-      "images": 3,
+      "headings": 16,
+      "images": 4,
       "robots": "noindex, nofollow"
     },
     {
@@ -246,7 +246,7 @@
       "description": "Yumuşak dokuda saptanan bir kitlenin patolojik değerlendirme için örneklenmesi. Hazırlık, işlem ve takip süreci hakkında bilgi edinin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/biyopsi/yumusak-doku-biyopsi",
       "h1": "Yumuşak Doku Biyopsisi Nedir? İşlem ve Hazırlık",
-      "headings": 5,
+      "headings": 13,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -258,7 +258,7 @@
       "description": "Karaciğer dokusu veya karaciğerdeki bir lezyondan tanısal inceleme amacıyla örnek alınması. Hazırlık, işlem ve takip süreci hakkında bilgi edinin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/biyopsi/karaciger-biyopsi",
       "h1": "Karaciğer Biyopsisi Nedir? İşlem, Hazırlık ve Takip",
-      "headings": 5,
+      "headings": 15,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -270,8 +270,8 @@
       "description": "Uygun hastalarda karaciğerdeki tümör odaklarına görüntüleme eşliğinde uygulanan lokal tedavi. Uygulama, hasta seçimi ve takip sürecini inceleyin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/tedaviler/karaciger-tumor-ablasyon-tedavisi",
       "h1": "Karaciğer Tümör Ablasyonu Nedir? RF ve Mikrodalga",
-      "headings": 16,
-      "images": 1,
+      "headings": 22,
+      "images": 4,
       "robots": "noindex, nofollow"
     },
     {
@@ -282,8 +282,8 @@
       "description": "Seçilmiş hastalarda tümörü besleyen damarlara kateterle ulaşılarak uygulanan tedavi yaklaşımı. Uygulama, hasta seçimi ve takip sürecini inceleyin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/tedaviler/kemoembolizasyon",
       "h1": "Kemoembolizasyon (TAKE) Nedir, Nasıl Uygulanır?",
-      "headings": 5,
-      "images": 1,
+      "headings": 14,
+      "images": 3,
       "robots": "noindex, nofollow"
     },
     {
@@ -294,8 +294,8 @@
       "description": "Uygun lezyonlarda tümörü besleyen damarların hedeflenmesine dayanan girişimsel yöntem. Uygulama, hasta seçimi ve takip sürecini inceleyin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/tedaviler/diger-bolgelerdeki-tumor-embolizasyonu",
       "h1": "Miyom Embolizasyonu ve Diğer Tümör Embolizasyonları",
-      "headings": 8,
-      "images": 1,
+      "headings": 17,
+      "images": 3,
       "robots": "noindex, nofollow"
     },
     {
@@ -306,8 +306,8 @@
       "description": "Seçilmiş karaciğer tümörlerinde damar yoluyla uygulanan, multidisipliner değerlendirme gerektiren tedavi. Uygulama, hasta seçimi ve takip sürecini inceleyin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/tedaviler/radyoembolizasyon-tedavisi",
       "h1": "Radyoembolizasyon (TARE) Tedavisi Nedir?",
-      "headings": 5,
-      "images": 1,
+      "headings": 15,
+      "images": 2,
       "robots": "noindex, nofollow"
     },
     {
@@ -318,7 +318,7 @@
       "description": "Gerekli klinik durumlarda safra kesesine görüntüleme rehberliğinde drenaj kateteri yerleştirilmesi. Uygulama, hasta seçimi ve takip sürecini inceleyin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/tedaviler/perkutan-kolesistostomi",
       "h1": "Perkütan Kolesistostomi Nedir? Safra Kesesi Drenajı",
-      "headings": 5,
+      "headings": 11,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -330,7 +330,7 @@
       "description": "Gebelik takibinde ultrason görüntülemesi hakkında genel bilgilendirme. Hazırlık, uygulama süreci ve değerlendirilen yapılar hakkında ayrıntılı bilgi edinin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/ultrason-girisimsel-radyoloji/gebelik-ultrasonu",
       "h1": "Gebelik Ultrasonu Ne Zaman ve Nasıl Yapılır?",
-      "headings": 5,
+      "headings": 16,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -342,19 +342,19 @@
       "description": "Karaciğerin ve ilgili yapıların ses dalgalarıyla değerlendirilmesi. Hazırlık, uygulama süreci ve değerlendirilen yapılar hakkında ayrıntılı bilgi edinin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/ultrason-girisimsel-radyoloji/karaciger-ultrasonu",
       "h1": "Karaciğer Ultrasonu Neyi Gösterir? Hazırlık ve Uygulama",
-      "headings": 5,
+      "headings": 13,
       "images": 2,
       "robots": "noindex, nofollow"
     },
     {
       "path": "/ultrason-girisimsel-radyoloji/meme-ultrasonu",
       "status": 200,
-      "title": "Meme Ultrasonu: Kullanım Alanları ve Uygulama | Ercan Kocakoç",
-      "titleCharacters": 61,
+      "title": "Meme Ultrasonu Nedir? Nasıl ve Ne Zaman Yapılır? | Ercan Kocakoç",
+      "titleCharacters": 64,
       "description": "Meme dokusunun ultrasonla değerlendirilmesi ve gerektiğinde diğer incelemelerle birlikte yorumlanması. Hazırlık ve inceleme süreci hakkında bilgi edinin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/ultrason-girisimsel-radyoloji/meme-ultrasonu",
-      "h1": "Meme Ultrasonu Ne Zaman ve Nasıl Yapılır?",
-      "headings": 5,
+      "h1": "Meme Ultrasonu Nedir? Nasıl Yapılır, Ne Zaman İstenir?",
+      "headings": 15,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -366,7 +366,7 @@
       "description": "Karın içi organların ultrason görüntülemesiyle incelenmesi. Hazırlık, uygulama süreci ve değerlendirilen yapılar hakkında ayrıntılı bilgi edinin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/ultrason-girisimsel-radyoloji/karin-ultrasonu",
       "h1": "Karın Ultrasonu Nedir? Hazırlık ve İnceleme Süreci",
-      "headings": 5,
+      "headings": 14,
       "images": 2,
       "robots": "noindex, nofollow"
     },
@@ -378,7 +378,7 @@
       "description": "Tiroid bezinin yapısı ve nodüllerin ultrasonla değerlendirilmesi. Hazırlık, uygulama süreci ve değerlendirilen yapılar hakkında ayrıntılı bilgi edinin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/ultrason-girisimsel-radyoloji/tiroid-ultrasonu",
       "h1": "Tiroid Ultrasonu Nedir? Nodül Değerlendirmesi",
-      "headings": 5,
+      "headings": 12,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -390,7 +390,7 @@
       "description": "Böbrek, mesane ve ilgili ürogenital yapıların ultrasonla incelenmesi. Hazırlık, uygulama süreci ve değerlendirilen yapılar hakkında ayrıntılı bilgi edinin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/ultrason-girisimsel-radyoloji/uriner-sistem-ve-urogenital-ultrason",
       "h1": "Üriner ve Ürogenital Ultrason: Hangi Organlar İncelenir?",
-      "headings": 5,
+      "headings": 14,
       "images": 2,
       "robots": "noindex, nofollow"
     },
@@ -402,7 +402,7 @@
       "description": "Karın bölgesine ait mevcut MR, BT ve ultrason incelemelerinin yeniden değerlendirilmesi. Gerekli görüntü, rapor ve hazırlık adımlarını öğrenin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/2-uzman-gorusu/abdomen-karin-bolgesi-tanisal-2-gorus",
       "h1": "Radyolojide İkinci Görüş Nedir? Ne Zaman Alınır?",
-      "headings": 5,
+      "headings": 13,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -426,7 +426,7 @@
       "description": "Böbrek ve üreme sistemine ait radyolojik görüntülerin değerlendirilmesi. Gerekli görüntü, rapor ve hazırlık adımlarını öğrenin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/2-uzman-gorusu/bobrek-ve-ureme-sistemi",
       "h1": "Genitoüriner Radyoloji: Böbrek ve Üreme Sistemi",
-      "headings": 27,
+      "headings": 34,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -462,8 +462,8 @@
       "description": "Füzyon biyopsinin amacı, görüntüleme ile doku örneklemesi arasındaki fark ve görüşmede sorulabilecek sorular. Hazırlık adımlarını ve soruları inceleyin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/blog/prostat-fuzyon-biyopsi-nedir",
       "h1": "Prostat Füzyon Biyopsisi: MR ve Ultrason Nasıl Birleşir?",
-      "headings": 9,
-      "images": 1,
+      "headings": 13,
+      "images": 2,
       "robots": "noindex, nofollow"
     },
     {
@@ -474,8 +474,8 @@
       "description": "İşlemin amacı, görüntüleme rehberliği, hazırlık, patoloji sonucu ve takip planını konuşmak için bir rehber. Hazırlık adımlarını ve soruları inceleyin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/blog/biyopsi-oncesi-hangi-sorulari-sormalisiniz",
       "h1": "Biyopsi Öncesi Hazırlık: Hekime Sorulacak 5 Soru",
-      "headings": 11,
-      "images": 1,
+      "headings": 15,
+      "images": 2,
       "robots": "noindex, nofollow"
     },
     {
@@ -486,7 +486,7 @@
       "description": "İncelenecek bölgenin hazırlığı neden değiştirebildiğini ve randevu öncesinde hangi bilgileri sormanız gerektiğini öğrenin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/blog/ultrason-randevusuna-hazirlik",
       "h1": "Ultrason Öncesi Hazırlık: Her İncelemede Aynı mı?",
-      "headings": 9,
+      "headings": 12,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -498,8 +498,44 @@
       "description": "Orijinal görüntüler, önceki incelemeler ve klinik öyküyü birlikte hazırlamak için pratik bir kontrol listesi. Hazırlık adımlarını ve soruları inceleyin.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/blog/ikinci-gorus-icin-goruntuler",
       "h1": "Radyolojik İkinci Görüş İçin Gerekli Görüntü ve Raporlar",
-      "headings": 9,
+      "headings": 11,
       "images": 1,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/blog/girisimsel-radyoloji-nedir",
+      "status": 200,
+      "title": "Girişimsel Radyoloji Nedir? Tanı ve Tedavi | Ercan Kocakoç",
+      "titleCharacters": 58,
+      "description": "Biyopsi, ablasyon ve embolizasyon gibi görüntüleme eşliğinde yapılan işlemler ile değerlendirme ve hazırlık sürecini tanıyın.",
+      "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/blog/girisimsel-radyoloji-nedir",
+      "h1": "Girişimsel Radyoloji Nedir? Tanı ve Tedavide Kullanımı",
+      "headings": 12,
+      "images": 2,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/blog/kanser-taramasi-ve-tani",
+      "status": 200,
+      "title": "Kanser Taraması, Görüntüleme ve Biyopsi | Ercan Kocakoç",
+      "titleCharacters": 55,
+      "description": "Kanser taraması ile şikâyet üzerine yapılan incelemelerin farkını, görüntüleme bulgularının ve gerektiğinde biyopsinin nasıl değerlendirildiğini öğrenin.",
+      "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/blog/kanser-taramasi-ve-tani",
+      "h1": "Kanser Taraması ve Tanı: Görüntüleme ve Biyopsinin Rolü",
+      "headings": 13,
+      "images": 2,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/blog/ercan-kocakoc-medico-tv-soylesisi",
+      "status": 200,
+      "title": "Ercan Kocakoç Medico TV Söyleşisi | Ercan Kocakoç",
+      "titleCharacters": 49,
+      "description": "Medico TV arşivindeki Prof. Dr. Ercan Kocakoç söyleşisine ve radyoloji alanındaki ilgili bilgilendirme yazılarına bu sayfadan ulaşabilirsiniz.",
+      "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/blog/ercan-kocakoc-medico-tv-soylesisi",
+      "h1": "Prof. Dr. Ercan Kocakoç’un Medico TV Söyleşisi",
+      "headings": 12,
+      "images": 2,
       "robots": "noindex, nofollow"
     },
     {
@@ -546,8 +582,8 @@
       "description": "Original physician articles preserved from the source site and clearly labelled editorial guides for consultations and procedures.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/blog",
       "h1": "Radiology articles & patient guides",
-      "headings": 30,
-      "images": 28,
+      "headings": 33,
+      "images": 31,
       "robots": "noindex, nofollow"
     },
     {
@@ -654,8 +690,8 @@
       "description": "A technique that combines MRI and ultrasound images to guide tissue sampling from suspicious areas in the prostate. Learn about preparation and follow-up.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/biyopsi/prostat-fuzyon-biyopsi",
       "h1": "What Is MRI-Ultrasound Fusion Prostate Biopsy?",
-      "headings": 28,
-      "images": 2,
+      "headings": 31,
+      "images": 3,
       "robots": "noindex, nofollow"
     },
     {
@@ -666,7 +702,7 @@
       "description": "Image-guided sampling to help evaluate a pancreatic lesion. Learn about its purpose, image guidance, preparation and follow-up after the procedure.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/biyopsi/pankreas-biyopsi",
       "h1": "What Is a Pancreatic Biopsy and How Is It Performed?",
-      "headings": 5,
+      "headings": 7,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -678,7 +714,7 @@
       "description": "Sampling a suspicious area identified on breast imaging for pathological assessment. Learn about preparation, the procedure and follow-up.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/biyopsi/meme-biyopsi",
       "h1": "What Is a Breast Biopsy and How Is It Performed?",
-      "headings": 7,
+      "headings": 9,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -690,8 +726,8 @@
       "description": "Tissue or cell sampling from a lymph node when clinically indicated. Learn about its purpose, image guidance, preparation and follow-up after the procedure.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/biyopsi/lenf-bezi-biyopsi",
       "h1": "What Is a Lymph Node Biopsy and How Is It Performed?",
-      "headings": 5,
-      "images": 1,
+      "headings": 9,
+      "images": 2,
       "robots": "noindex, nofollow"
     },
     {
@@ -702,8 +738,8 @@
       "description": "Sampling a thyroid nodule based on ultrasound findings and clinical assessment. Learn about preparation, the procedure and follow-up.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/biyopsi/tiroid-biyopsi",
       "h1": "What Is a Thyroid Biopsy and How Is It Performed?",
-      "headings": 5,
-      "images": 1,
+      "headings": 9,
+      "images": 2,
       "robots": "noindex, nofollow"
     },
     {
@@ -714,7 +750,7 @@
       "description": "Image-guided diagnostic sampling of a bone lesion. Learn about its purpose, image guidance, preparation and follow-up after the procedure.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/biyopsi/kemik-biyopsi",
       "h1": "What Is a Bone Biopsy and How Is It Performed?",
-      "headings": 5,
+      "headings": 7,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -726,8 +762,8 @@
       "description": "Image-guided tissue sampling from an appropriate lung lesion. Learn about its purpose, image guidance, preparation and follow-up after the procedure.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/biyopsi/akciger-biyopsi",
       "h1": "What Is a Lung Biopsy and How Is It Performed?",
-      "headings": 5,
-      "images": 3,
+      "headings": 9,
+      "images": 4,
       "robots": "noindex, nofollow"
     },
     {
@@ -738,7 +774,7 @@
       "description": "Sampling a soft tissue mass for pathological assessment. Learn about its purpose, image guidance, preparation and follow-up after the procedure.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/biyopsi/yumusak-doku-biyopsi",
       "h1": "What Is a Soft Tissue Biopsy? Procedure and Preparation",
-      "headings": 5,
+      "headings": 7,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -750,7 +786,7 @@
       "description": "Diagnostic sampling of liver tissue or a liver lesion. Learn about its purpose, image guidance, preparation and follow-up after the procedure.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/biyopsi/karaciger-biyopsi",
       "h1": "What Is a Liver Biopsy? Procedure, Preparation and Follow-up",
-      "headings": 5,
+      "headings": 7,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -762,8 +798,8 @@
       "description": "Image-guided local treatment of liver tumour sites in selected patients. Learn about its purpose, how it is performed, patient selection and follow-up.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/tedaviler/karaciger-tumor-ablasyon-tedavisi",
       "h1": "What Is Liver Tumour Ablation? RF and Microwave Treatment",
-      "headings": 8,
-      "images": 1,
+      "headings": 13,
+      "images": 4,
       "robots": "noindex, nofollow"
     },
     {
@@ -774,8 +810,8 @@
       "description": "A catheter-based approach to treating selected tumours through their supplying blood vessels. Review how it is performed, patient selection and follow-up.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/tedaviler/kemoembolizasyon",
       "h1": "What Is Transarterial Chemoembolisation (TACE)?",
-      "headings": 7,
-      "images": 1,
+      "headings": 12,
+      "images": 3,
       "robots": "noindex, nofollow"
     },
     {
@@ -786,8 +822,8 @@
       "description": "An interventional procedure targeting blood vessels that supply an appropriate tumour. Review how it is performed, patient selection and follow-up.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/tedaviler/diger-bolgelerdeki-tumor-embolizasyonu",
       "h1": "Fibroid Embolisation and Embolisation of Other Tumours",
-      "headings": 7,
-      "images": 1,
+      "headings": 12,
+      "images": 3,
       "robots": "noindex, nofollow"
     },
     {
@@ -798,8 +834,8 @@
       "description": "A transarterial treatment for selected liver tumours requiring multidisciplinary assessment. Review how it is performed, patient selection and follow-up.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/tedaviler/radyoembolizasyon-tedavisi",
       "h1": "What Is Transarterial Radioembolisation (TARE)?",
-      "headings": 7,
-      "images": 1,
+      "headings": 11,
+      "images": 2,
       "robots": "noindex, nofollow"
     },
     {
@@ -810,7 +846,7 @@
       "description": "Image-guided placement of a drainage catheter in the gallbladder when clinically needed. Review how it is performed, patient selection and follow-up.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/tedaviler/perkutan-kolesistostomi",
       "h1": "What Is Percutaneous Cholecystostomy? Gallbladder Drainage",
-      "headings": 7,
+      "headings": 9,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -822,7 +858,7 @@
       "description": "General information about ultrasound imaging during pregnancy. Learn about its purpose, preparation, examination process and the structures assessed.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/ultrason-girisimsel-radyoloji/gebelik-ultrasonu",
       "h1": "When and How Is a Pregnancy Ultrasound Performed?",
-      "headings": 7,
+      "headings": 9,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -834,7 +870,7 @@
       "description": "Ultrasound assessment of the liver and related structures. Learn about its purpose, preparation, examination process and the structures assessed.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/ultrason-girisimsel-radyoloji/karaciger-ultrasonu",
       "h1": "What Does a Liver Ultrasound Show? Preparation and Examination",
-      "headings": 7,
+      "headings": 9,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -845,8 +881,8 @@
       "titleCharacters": 55,
       "description": "Ultrasound assessment of breast tissue, interpreted alongside other examinations when needed. Learn about preparation and the examination process.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/ultrason-girisimsel-radyoloji/meme-ultrasonu",
-      "h1": "When and How Is a Breast Ultrasound Performed?",
-      "headings": 7,
+      "h1": "What Is a Breast Ultrasound? Procedure and Uses",
+      "headings": 9,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -858,7 +894,7 @@
       "description": "Ultrasound examination of abdominal organs. Learn about its purpose, preparation, examination process and the structures assessed.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/ultrason-girisimsel-radyoloji/karin-ultrasonu",
       "h1": "What Is an Abdominal Ultrasound? Preparation and Examination",
-      "headings": 7,
+      "headings": 9,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -870,7 +906,7 @@
       "description": "Ultrasound assessment of the thyroid gland and thyroid nodules. Learn about its purpose, preparation, examination process and the structures assessed.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/ultrason-girisimsel-radyoloji/tiroid-ultrasonu",
       "h1": "What Is a Thyroid Ultrasound? Nodule Assessment",
-      "headings": 7,
+      "headings": 9,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -882,7 +918,7 @@
       "description": "Ultrasound assessment of the kidneys, bladder and related genitourinary structures. Learn about preparation and the examination process.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/ultrason-girisimsel-radyoloji/uriner-sistem-ve-urogenital-ultrason",
       "h1": "Urinary and Genitourinary Ultrasound: Organs Examined",
-      "headings": 7,
+      "headings": 9,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -894,7 +930,7 @@
       "description": "Review of existing abdominal MRI, CT and ultrasound examinations. Learn what the review covers and which images, reports and records to prepare.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/2-uzman-gorusu/abdomen-karin-bolgesi-tanisal-2-gorus",
       "h1": "What Is a Radiology Second Opinion and When Is It Needed?",
-      "headings": 7,
+      "headings": 9,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -906,7 +942,7 @@
       "description": "Assessment of abdominal imaging findings in their clinical context. Learn what the review covers and which images, reports and records to prepare.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/2-uzman-gorusu/karin-bolgesi-radyolojisi",
       "h1": "What Is Abdominal Radiology? Imaging the Abdomen",
-      "headings": 7,
+      "headings": 9,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -918,7 +954,7 @@
       "description": "Review of radiological images of the kidneys and reproductive system. Learn what the review covers and which images, reports and records to prepare.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/2-uzman-gorusu/bobrek-ve-ureme-sistemi",
       "h1": "Genitourinary Radiology: Kidney and Reproductive System",
-      "headings": 8,
+      "headings": 9,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -954,8 +990,8 @@
       "description": "The purpose of fusion biopsy, imaging versus tissue sampling, and questions to ask at your consultation. Review the preparation steps and questions.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/blog/prostat-fuzyon-biyopsi-nedir",
       "h1": "Prostate Fusion Biopsy: How MRI and Ultrasound Work Together",
-      "headings": 9,
-      "images": 1,
+      "headings": 12,
+      "images": 2,
       "robots": "noindex, nofollow"
     },
     {
@@ -966,8 +1002,8 @@
       "description": "A guide to discussing the purpose, preparation, results and follow-up of a biopsy. Review practical preparation and questions for your physician.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/blog/biyopsi-oncesi-hangi-sorulari-sormalisiniz",
       "h1": "Preparing for a Biopsy: Five Questions for Your Physician",
-      "headings": 11,
-      "images": 1,
+      "headings": 14,
+      "images": 2,
       "robots": "noindex, nofollow"
     },
     {
@@ -978,7 +1014,7 @@
       "description": "Why preparation can vary by examination and what to ask before your appointment. Review practical preparation and questions for your physician.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/blog/ultrason-randevusuna-hazirlik",
       "h1": "Ultrasound Preparation: Is It the Same for Every Examination?",
-      "headings": 9,
+      "headings": 10,
       "images": 1,
       "robots": "noindex, nofollow"
     },
@@ -990,8 +1026,44 @@
       "description": "A practical checklist for preparing images, previous examinations and clinical information. Review practical preparation and questions for your physician.",
       "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/blog/ikinci-gorus-icin-goruntuler",
       "h1": "Images and Reports Needed for a Radiology Second Opinion",
-      "headings": 9,
+      "headings": 11,
       "images": 1,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/en/blog/girisimsel-radyoloji-nedir",
+      "status": 200,
+      "title": "Interventional Radiology: Diagnosis and Treatment | Ercan Kocakoç",
+      "titleCharacters": 65,
+      "description": "Learn how imaging guides biopsies, ablation and embolization, and what to discuss before an interventional radiology procedure.",
+      "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/blog/girisimsel-radyoloji-nedir",
+      "h1": "What Is Interventional Radiology? Diagnosis and Treatment",
+      "headings": 11,
+      "images": 2,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/en/blog/kanser-taramasi-ve-tani",
+      "status": 200,
+      "title": "Cancer Screening, Imaging and Biopsy | Ercan Kocakoç",
+      "titleCharacters": 52,
+      "description": "Understand the difference between screening and investigating symptoms, and the roles of medical imaging and biopsy in diagnosis.",
+      "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/blog/kanser-taramasi-ve-tani",
+      "h1": "Cancer Screening and Diagnosis: Imaging and Biopsy",
+      "headings": 12,
+      "images": 2,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/en/blog/ercan-kocakoc-medico-tv-soylesisi",
+      "status": 200,
+      "title": "Ercan Kocakoç: Medico TV Interview | Ercan Kocakoç",
+      "titleCharacters": 50,
+      "description": "Watch the Medico TV archive interview with Prof. Dr. Ercan Kocakoç and find related information about his radiology practice.",
+      "canonical": "https://ercan-kocakoc-radyoloji.nesibe.chatgpt.site/en/blog/ercan-kocakoc-medico-tv-soylesisi",
+      "h1": "Prof. Dr. Ercan Kocakoç: Medico TV Interview",
+      "headings": 12,
+      "images": 2,
       "robots": "noindex, nofollow"
     }
   ]

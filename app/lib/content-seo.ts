@@ -19,7 +19,7 @@ const pageTitles:Record<string,LocalisedTitle>={
  'tedaviler/perkutan-kolesistostomi':{tr:'Perkütan Kolesistostomi Nedir? Safra Kesesi Drenajı',en:'What Is Percutaneous Cholecystostomy? Gallbladder Drainage',seoTr:'Perkütan Kolesistostomi: Safra Kesesi Drenajı',seoEn:'Percutaneous Cholecystostomy: Gallbladder Drainage'},
  'ultrason-girisimsel-radyoloji/gebelik-ultrasonu':{tr:'Gebelik Ultrasonu Ne Zaman ve Nasıl Yapılır?',en:'When and How Is a Pregnancy Ultrasound Performed?',seoTr:'Gebelik Ultrasonu: Zamanlama ve Uygulama',seoEn:'Pregnancy Ultrasound: Timing and Examination'},
  'ultrason-girisimsel-radyoloji/karaciger-ultrasonu':{tr:'Karaciğer Ultrasonu Neyi Gösterir? Hazırlık ve Uygulama',en:'What Does a Liver Ultrasound Show? Preparation and Examination',seoTr:'Karaciğer Ultrasonu: Hazırlık ve Bulgular',seoEn:'Liver Ultrasound: Preparation and Findings'},
- 'ultrason-girisimsel-radyoloji/meme-ultrasonu':{tr:'Meme Ultrasonu Ne Zaman ve Nasıl Yapılır?',en:'When and How Is a Breast Ultrasound Performed?',seoTr:'Meme Ultrasonu: Kullanım Alanları ve Uygulama',seoEn:'Breast Ultrasound: Uses and Examination'},
+ 'ultrason-girisimsel-radyoloji/meme-ultrasonu':{tr:'Meme Ultrasonu Nedir? Nasıl Yapılır, Ne Zaman İstenir?',en:'What Is a Breast Ultrasound? Procedure and Uses',seoTr:'Meme Ultrasonu Nedir? Nasıl ve Ne Zaman Yapılır?',seoEn:'Breast Ultrasound: Uses and Examination'},
  'ultrason-girisimsel-radyoloji/karin-ultrasonu':{tr:'Karın Ultrasonu Nedir? Hazırlık ve İnceleme Süreci',en:'What Is an Abdominal Ultrasound? Preparation and Examination',seoTr:'Karın Ultrasonu: Hazırlık ve İnceleme',seoEn:'Abdominal Ultrasound: Preparation and Examination'},
  'ultrason-girisimsel-radyoloji/tiroid-ultrasonu':{tr:'Tiroid Ultrasonu Nedir? Nodül Değerlendirmesi',en:'What Is a Thyroid Ultrasound? Nodule Assessment',seoTr:'Tiroid Ultrasonu: Nodül Değerlendirmesi',seoEn:'Thyroid Ultrasound: Nodule Assessment'},
  'ultrason-girisimsel-radyoloji/uriner-sistem-ve-urogenital-ultrason':{tr:'Üriner ve Ürogenital Ultrason: Hangi Organlar İncelenir?',en:'Urinary and Genitourinary Ultrasound: Organs Examined',seoTr:'Üriner ve Ürogenital Ultrason İncelemesi',seoEn:'Urinary and Genitourinary Ultrasound'},
@@ -72,7 +72,7 @@ export function applyPageSeo(page:PageRecord):PageRecord{
  const rule=pageTitles[page.slug];if(!rule||!['article','blog'].includes(page.kind))return page;
  if(page.updatedAt.includes('T'))return page;
  const title=rule.tr,titleEn=rule.en;
- return {...page,title,titleEn,seoTitle:(rule.seoTr||title)+' | Ercan Kocakoç',seoTitleEn:(rule.seoEn||titleEn)+' | Ercan Kocakoç',seoDescription:description(page.summary,page.category,page.kind),seoDescriptionEn:description(page.summaryEn,page.category,page.kind,true),updatedAt:'2026-10-27'};
+ return {...page,title,titleEn,seoTitle:(rule.seoTr||title)+' | Ercan Kocakoç',seoTitleEn:(rule.seoEn||titleEn)+' | Ercan Kocakoç',seoDescription:description(page.summary,page.category,page.kind),seoDescriptionEn:description(page.summaryEn,page.category,page.kind,true)};
 }
 
 const videoTitles:Record<string,LocalisedTitle>={
