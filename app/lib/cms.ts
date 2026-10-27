@@ -7,14 +7,15 @@ import type {PageRecord,Settings,Archive} from './types';
 import {applyPageSeo,applyVideoSeo} from './content-seo';
 export function db(){if(!env.DB)throw new Error('Veritabanı bağlantısı bulunamadı.');return env.DB;}
 export const getPages=cache(async (all=false):Promise<PageRecord[]>=>{
- const {results}=await db().prepare("SELECT key, value FROM documents WHERE key LIKE 'page:%'").all<{key:string;value:string}>();
+ const {results}=env.DB?await db().prepare("SELECT key, value FROM documents WHERE key LIKE 'page:%'").all<{key:string;value:string}>():{results:[] as {key:string;value:string}[]};
  const map=new Map(seedPages.map(p=>[p.slug,p]));for(const r of results)map.set(r.key.slice(5),JSON.parse(r.value));
  return [...map.values()].filter(p=>all?p.status!=='deleted':p.status==='published').map(applyPageSeo);
 });
-export const getSettings=cache(async ():Promise<Settings>=>{const row=await db().prepare('SELECT value FROM documents WHERE key = ?').bind('settings').first<{value:string}>();return {...defaultSettings,...(row?JSON.parse(row.value):{})};});
+export const getSettings=cache(async ():Promise<Settings>=>{const row=env.DB?await db().prepare('SELECT value FROM documents WHERE key = ?').bind('settings').first<{value:string}>():null;return {...defaultSettings,...(row?JSON.parse(row.value):{})};});
 export async function getPage(slug:string){return (await getPages()).find(p=>p.slug===slug);}
 export async function admin(){
  const user=await getChatGPTUser();if(!user)return null;
+ if(!env.DB)return null;
  const config=env as unknown as {CMS_ADMIN_EMAIL?:string;CMS_PRIVATE_SETUP?:string};
  if(config.CMS_ADMIN_EMAIL)return config.CMS_ADMIN_EMAIL.toLowerCase()===user.email.toLowerCase()?user:null;
  let row=await db().prepare('SELECT value FROM documents WHERE key = ?').bind('cms:owner').first<{value:string}>();
@@ -29,4 +30,4 @@ export async function admin(){
 export function safeJSON(data:unknown){return JSON.stringify(data).replace(/</g,'\\u003c');}
 export function absolute(s:Settings,path=''){return s.siteUrl.replace(/\/$/,'')+(path.startsWith('/')?path:'/'+path);}
 
-export const getArchive=cache(async ():Promise<Archive>=>{const row=await db().prepare('SELECT value FROM documents WHERE key = ?').bind('archive').first<{value:string}>();const archive:Archive=row?JSON.parse(row.value):defaultArchive;return {...archive,videos:archive.videos.map(applyVideoSeo)};});
+export const getArchive=cache(async ():Promise<Archive>=>{const row=env.DB?await db().prepare('SELECT value FROM documents WHERE key = ?').bind('archive').first<{value:string}>():null;const archive:Archive=row?JSON.parse(row.value):defaultArchive;return {...archive,videos:archive.videos.map(applyVideoSeo)};});

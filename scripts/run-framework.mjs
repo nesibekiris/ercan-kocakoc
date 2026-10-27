@@ -6,6 +6,17 @@ const [command, ...args] = process.argv.slice(2);
 if (!["dev", "build"].includes(command)) throw new Error("Expected dev or build.");
 const managedLinux = readExecutionProfile() === "managed-linux";
 
+// Vercel detects this repository as Next.js and requires a `.next` output.
+// Sites/Cloudflare builds continue to use Vinext and produce the Worker bundle.
+if (process.env.VERCEL && command === "build") {
+  const cli = new URL("../node_modules/next/dist/bin/next", import.meta.url);
+  const result = spawnSync(process.execPath, [fileURLToPath(cli), "build", ...args], {
+    stdio: "inherit",
+  });
+  if (result.error) throw result.error;
+  process.exit(result.status ?? 1);
+}
+
 if (managedLinux && command === "build") {
   const result = spawnSync("bash", [
     fileURLToPath(new URL("./build-verified.sh", import.meta.url)), ...args,
