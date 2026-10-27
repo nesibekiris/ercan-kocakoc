@@ -98,6 +98,12 @@
 .professor-portrait-caption{flex-wrap:wrap;gap:8px 18px;min-width:0;flex-shrink:0;text-align:center}
 .portrait-vertical{right:9px;max-height:80%;font-size:6px;letter-spacing:1.2px;white-space:nowrap}
 .portrait-corner{display:none}
+/* Text-only ultrasound topics: quiet typography, with no organ drawings. */
+.ultrasound-topics .organ-tile{min-height:118px;align-items:flex-start;justify-content:center;padding:23px 18px;gap:8px;border-radius:8px;box-shadow:none}
+.ultrasound-topics .organ-tile>.organ-label{display:block;min-height:0;text-align:left;font-size:16px;line-height:1.45;padding-right:10px}
+.ultrasound-topics .organ-tile>small{text-align:left;font-size:12px;line-height:1.55}
+.ultrasound-topics .organ-tile>svg{width:13px;height:13px;top:12px;right:10px;opacity:.65}
+@media(max-width:650px){.ultrasound-topics .organ-tile{min-height:108px;padding:20px 15px;gap:7px}.ultrasound-topics .organ-tile>.organ-label{font-size:15px}.ultrasound-topics .organ-tile>small{font-size:12px}}
 /* A short preparation band replaces the large stock-photo feature. */
 .consultation-prep-inner{display:grid;grid-template-columns:230px minmax(0,1fr);gap:30px;align-items:start;padding:27px 28px;border:1px solid #d5e3e9;border-radius:12px;background:#f5f9fb}
 .consultation-prep-heading .eyebrow{margin-bottom:10px;font-size:10px}
