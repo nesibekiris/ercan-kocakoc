@@ -1,0 +1,706 @@
+{
+  "/": {
+    "url": "/images/social/tr--home.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Girişimsel ve abdominal radyoloji",
+    "source": "/images/portraits/ercan-kocakoc-transparent.webp",
+    "pageTitle": null
+  },
+  "/iletisim": {
+    "url": "/images/social/tr--iletisim.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "İletişim ve randevu",
+    "source": "/images/portraits/ercan-kocakoc-transparent.webp",
+    "pageTitle": null
+  },
+  "/gizlilik": {
+    "url": "/images/social/tr--gizlilik.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Gizlilik",
+    "source": "/images/portraits/ercan-kocakoc-transparent.webp",
+    "pageTitle": null
+  },
+  "/blog": {
+    "url": "/images/social/tr--blog.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Radyoloji yazıları ve hasta rehberleri",
+    "source": "/images/licensed/ultrasound-scanner.webp",
+    "pageTitle": null
+  },
+  "/video-galeri": {
+    "url": "/images/social/tr--video-galeri.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Radyoloji video arşivi",
+    "source": "/images/responsive/clinic-16-800.webp",
+    "pageTitle": null
+  },
+  "/fotograf-galeri": {
+    "url": "/images/social/tr--fotograf-galeri.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Görsel galeri",
+    "source": "/images/responsive/clinic-06-800.webp",
+    "pageTitle": null
+  },
+  "/yayinlar": {
+    "url": "/images/social/tr--yayinlar.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Bilimsel yayınlar",
+    "source": "/images/edited/abdominal-radyoloji-book.webp",
+    "pageTitle": null
+  },
+  "/tezler": {
+    "url": "/images/social/tr--tezler.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Tezler & danışmanlık",
+    "source": "/images/edited/abdominal-radyoloji-book.webp",
+    "pageTitle": null
+  },
+  "/biyopsi": {
+    "url": "/images/social/tr--biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Biyopsi",
+    "source": "/images/original/prostat-fuzyon-biyopsi.webp",
+    "pageTitle": "Biyopsi"
+  },
+  "/tedaviler": {
+    "url": "/images/social/tr--tedaviler.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Girişimsel tedaviler",
+    "source": "/images/original/karaciger-tumor-ablasyon-tedavisi.webp",
+    "pageTitle": "Girişimsel tedaviler"
+  },
+  "/ultrason-girisimsel-radyoloji": {
+    "url": "/images/social/tr--ultrason-girisimsel-radyoloji.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Ultrason",
+    "source": "/images/licensed/ultrasound-monitor.webp",
+    "pageTitle": "Ultrason"
+  },
+  "/2-uzman-gorusu": {
+    "url": "/images/social/tr--2-uzman-gorusu.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "İkinci uzman görüşü",
+    "source": "/images/original/bobrek-ureme-sistemleri.webp",
+    "pageTitle": "İkinci uzman görüşü"
+  },
+  "/biyopsi/prostat-fuzyon-biyopsi": {
+    "url": "/images/social/tr--biyopsi--prostat-fuzyon-biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Prostat Füzyon Biyopsisi Nedir, Nasıl Yapılır?",
+    "source": "/images/blog-covers/biyopsi--prostat-fuzyon-biyopsi.webp",
+    "pageTitle": "Prostat Füzyon Biyopsisi Nedir, Nasıl Yapılır?"
+  },
+  "/biyopsi/pankreas-biyopsi": {
+    "url": "/images/social/tr--biyopsi--pankreas-biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Pankreas Biyopsisi Nedir, Nasıl Yapılır?",
+    "source": "/images/blog-covers/biyopsi--pankreas-biyopsi.webp",
+    "pageTitle": "Pankreas Biyopsisi Nedir, Nasıl Yapılır?"
+  },
+  "/biyopsi/meme-biyopsi": {
+    "url": "/images/social/tr--biyopsi--meme-biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Meme Biyopsisi Nedir, Nasıl Yapılır?",
+    "source": "/images/blog-covers/biyopsi--meme-biyopsi.webp",
+    "pageTitle": "Meme Biyopsisi Nedir, Nasıl Yapılır?"
+  },
+  "/biyopsi/lenf-bezi-biyopsi": {
+    "url": "/images/social/tr--biyopsi--lenf-bezi-biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Lenf Bezi Biyopsisi Nedir, Nasıl Yapılır?",
+    "source": "/images/blog-covers/biyopsi--lenf-bezi-biyopsi.webp",
+    "pageTitle": "Lenf Bezi Biyopsisi Nedir, Nasıl Yapılır?"
+  },
+  "/biyopsi/tiroid-biyopsi": {
+    "url": "/images/social/tr--biyopsi--tiroid-biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Tiroid Biyopsisi Nedir, Nasıl Yapılır?",
+    "source": "/images/blog-covers/biyopsi--tiroid-biyopsi.webp",
+    "pageTitle": "Tiroid Biyopsisi Nedir, Nasıl Yapılır?"
+  },
+  "/biyopsi/kemik-biyopsi": {
+    "url": "/images/social/tr--biyopsi--kemik-biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Kemik Biyopsisi Nedir, Nasıl Yapılır?",
+    "source": "/images/blog-covers/biyopsi--kemik-biyopsi.webp",
+    "pageTitle": "Kemik Biyopsisi Nedir, Nasıl Yapılır?"
+  },
+  "/biyopsi/akciger-biyopsi": {
+    "url": "/images/social/tr--biyopsi--akciger-biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Akciğer Biyopsisi Nedir, Nasıl Yapılır?",
+    "source": "/images/blog-covers/biyopsi--akciger-biyopsi.webp",
+    "pageTitle": "Akciğer Biyopsisi Nedir, Nasıl Yapılır?"
+  },
+  "/biyopsi/yumusak-doku-biyopsi": {
+    "url": "/images/social/tr--biyopsi--yumusak-doku-biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Yumuşak Doku Biyopsisi Nedir? İşlem ve Hazırlık",
+    "source": "/images/blog-covers/biyopsi--yumusak-doku-biyopsi.webp",
+    "pageTitle": "Yumuşak Doku Biyopsisi Nedir? İşlem ve Hazırlık"
+  },
+  "/biyopsi/karaciger-biyopsi": {
+    "url": "/images/social/tr--biyopsi--karaciger-biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Karaciğer Biyopsisi Nedir? İşlem, Hazırlık ve Takip",
+    "source": "/images/blog-covers/biyopsi--karaciger-biyopsi.webp",
+    "pageTitle": "Karaciğer Biyopsisi Nedir? İşlem, Hazırlık ve Takip"
+  },
+  "/tedaviler/karaciger-tumor-ablasyon-tedavisi": {
+    "url": "/images/social/tr--tedaviler--karaciger-tumor-ablasyon-tedavisi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Karaciğer Tümör Ablasyonu Nedir? RF ve Mikrodalga",
+    "source": "/images/blog-covers/tedaviler--karaciger-tumor-ablasyon-tedavisi.webp",
+    "pageTitle": "Karaciğer Tümör Ablasyonu Nedir? RF ve Mikrodalga"
+  },
+  "/tedaviler/kemoembolizasyon": {
+    "url": "/images/social/tr--tedaviler--kemoembolizasyon.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Kemoembolizasyon (TAKE) Nedir, Nasıl Uygulanır?",
+    "source": "/images/blog-covers/tedaviler--kemoembolizasyon.webp",
+    "pageTitle": "Kemoembolizasyon (TAKE) Nedir, Nasıl Uygulanır?"
+  },
+  "/tedaviler/diger-bolgelerdeki-tumor-embolizasyonu": {
+    "url": "/images/social/tr--tedaviler--diger-bolgelerdeki-tumor-embolizasyonu.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Miyom Embolizasyonu ve Diğer Tümör Embolizasyonları",
+    "source": "/images/blog-covers/tedaviler--diger-bolgelerdeki-tumor-embolizasyonu.webp",
+    "pageTitle": "Miyom Embolizasyonu ve Diğer Tümör Embolizasyonları"
+  },
+  "/tedaviler/radyoembolizasyon-tedavisi": {
+    "url": "/images/social/tr--tedaviler--radyoembolizasyon-tedavisi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Radyoembolizasyon (TARE) Tedavisi Nedir?",
+    "source": "/images/blog-covers/tedaviler--radyoembolizasyon-tedavisi.webp",
+    "pageTitle": "Radyoembolizasyon (TARE) Tedavisi Nedir?"
+  },
+  "/tedaviler/perkutan-kolesistostomi": {
+    "url": "/images/social/tr--tedaviler--perkutan-kolesistostomi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Perkütan Kolesistostomi Nedir? Safra Kesesi Drenajı",
+    "source": "/images/blog-covers/tedaviler--perkutan-kolesistostomi.webp",
+    "pageTitle": "Perkütan Kolesistostomi Nedir? Safra Kesesi Drenajı"
+  },
+  "/ultrason-girisimsel-radyoloji/gebelik-ultrasonu": {
+    "url": "/images/social/tr--ultrason-girisimsel-radyoloji--gebelik-ultrasonu.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Gebelik Ultrasonu Ne Zaman ve Nasıl Yapılır?",
+    "source": "/images/blog-covers/ultrason--gebelik-ultrasonu.webp",
+    "pageTitle": "Gebelik Ultrasonu Ne Zaman ve Nasıl Yapılır?"
+  },
+  "/ultrason-girisimsel-radyoloji/karaciger-ultrasonu": {
+    "url": "/images/social/tr--ultrason-girisimsel-radyoloji--karaciger-ultrasonu.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Karaciğer Ultrasonu Neyi Gösterir? Hazırlık ve Uygulama",
+    "source": "/images/blog-covers/ultrason--karaciger-ultrasonu.webp",
+    "pageTitle": "Karaciğer Ultrasonu Neyi Gösterir? Hazırlık ve Uygulama"
+  },
+  "/ultrason-girisimsel-radyoloji/meme-ultrasonu": {
+    "url": "/images/social/tr--ultrason-girisimsel-radyoloji--meme-ultrasonu.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Meme Ultrasonu Nedir? Nasıl Yapılır, Ne Zaman İstenir?",
+    "source": "/images/blog-covers/ultrason--meme-ultrasonu.webp",
+    "pageTitle": "Meme Ultrasonu Nedir? Nasıl Yapılır, Ne Zaman İstenir?"
+  },
+  "/ultrason-girisimsel-radyoloji/karin-ultrasonu": {
+    "url": "/images/social/tr--ultrason-girisimsel-radyoloji--karin-ultrasonu.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Karın Ultrasonu Nedir? Hazırlık ve İnceleme Süreci",
+    "source": "/images/blog-covers/ultrason--karin-ultrasonu.webp",
+    "pageTitle": "Karın Ultrasonu Nedir? Hazırlık ve İnceleme Süreci"
+  },
+  "/ultrason-girisimsel-radyoloji/tiroid-ultrasonu": {
+    "url": "/images/social/tr--ultrason-girisimsel-radyoloji--tiroid-ultrasonu.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Tiroid Ultrasonu Nedir? Nodül Değerlendirmesi",
+    "source": "/images/blog-covers/ultrason--tiroid-ultrasonu.webp",
+    "pageTitle": "Tiroid Ultrasonu Nedir? Nodül Değerlendirmesi"
+  },
+  "/ultrason-girisimsel-radyoloji/uriner-sistem-ve-urogenital-ultrason": {
+    "url": "/images/social/tr--ultrason-girisimsel-radyoloji--uriner-sistem-ve-urogenital-ultrason.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Üriner ve Ürogenital Ultrason: Hangi Organlar İncelenir?",
+    "source": "/images/blog-covers/ultrason--uriner-sistem-ve-urogenital-ultrason.webp",
+    "pageTitle": "Üriner ve Ürogenital Ultrason: Hangi Organlar İncelenir?"
+  },
+  "/2-uzman-gorusu/abdomen-karin-bolgesi-tanisal-2-gorus": {
+    "url": "/images/social/tr--2-uzman-gorusu--abdomen-karin-bolgesi-tanisal-2-gorus.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Radyolojide İkinci Görüş Nedir? Ne Zaman Alınır?",
+    "source": "/images/blog-covers/ikinci-gorus--abdomen-karin-bolgesi-tanisal-2-gorus.webp",
+    "pageTitle": "Radyolojide İkinci Görüş Nedir? Ne Zaman Alınır?"
+  },
+  "/2-uzman-gorusu/karin-bolgesi-radyolojisi": {
+    "url": "/images/social/tr--2-uzman-gorusu--karin-bolgesi-radyolojisi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Abdominal Radyoloji Nedir? Karın Bölgesi Görüntüleme",
+    "source": "/images/blog-covers/ikinci-gorus--karin-bolgesi-radyolojisi.webp",
+    "pageTitle": "Abdominal Radyoloji Nedir? Karın Bölgesi Görüntüleme"
+  },
+  "/2-uzman-gorusu/bobrek-ve-ureme-sistemi": {
+    "url": "/images/social/tr--2-uzman-gorusu--bobrek-ve-ureme-sistemi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Genitoüriner Radyoloji: Böbrek ve Üreme Sistemi",
+    "source": "/images/blog-covers/ikinci-gorus--bobrek-ve-ureme-sistemi.webp",
+    "pageTitle": "Genitoüriner Radyoloji: Böbrek ve Üreme Sistemi"
+  },
+  "/hakkimda": {
+    "url": "/images/social/tr--hakkimda.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Prof. Dr. Ercan Kocakoç",
+    "source": "/images/portraits/ercan-kocakoc-transparent.webp",
+    "pageTitle": "Prof. Dr. Ercan Kocakoç"
+  },
+  "/akademik-calismalar": {
+    "url": "/images/social/tr--akademik-calismalar.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Akademik çalışmalar",
+    "source": "/images/edited/abdominal-radyoloji-book.webp",
+    "pageTitle": "Akademik çalışmalar"
+  },
+  "/blog/prostat-fuzyon-biyopsi-nedir": {
+    "url": "/images/social/tr--blog--prostat-fuzyon-biyopsi-nedir.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Prostat Füzyon Biyopsisi: MR ve Ultrason Nasıl Birleşir?",
+    "source": "/images/blog-covers/blog--prostat-fuzyon-biyopsi-nedir.webp",
+    "pageTitle": "Prostat Füzyon Biyopsisi: MR ve Ultrason Nasıl Birleşir?"
+  },
+  "/blog/biyopsi-oncesi-hangi-sorulari-sormalisiniz": {
+    "url": "/images/social/tr--blog--biyopsi-oncesi-hangi-sorulari-sormalisiniz.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Biyopsi Öncesi Hazırlık: Hekime Sorulacak 5 Soru",
+    "source": "/images/blog-covers/blog--biyopsi-oncesi-hangi-sorulari-sormalisiniz.webp",
+    "pageTitle": "Biyopsi Öncesi Hazırlık: Hekime Sorulacak 5 Soru"
+  },
+  "/blog/ultrason-randevusuna-hazirlik": {
+    "url": "/images/social/tr--blog--ultrason-randevusuna-hazirlik.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Ultrason Öncesi Hazırlık: Her İncelemede Aynı mı?",
+    "source": "/images/blog-covers/blog--ultrason-randevusuna-hazirlik.webp",
+    "pageTitle": "Ultrason Öncesi Hazırlık: Her İncelemede Aynı mı?"
+  },
+  "/blog/ikinci-gorus-icin-goruntuler": {
+    "url": "/images/social/tr--blog--ikinci-gorus-icin-goruntuler.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Radyolojik İkinci Görüş İçin Gerekli Görüntü ve Raporlar",
+    "source": "/images/blog-covers/blog--ikinci-gorus-icin-goruntuler.webp",
+    "pageTitle": "Radyolojik İkinci Görüş İçin Gerekli Görüntü ve Raporlar"
+  },
+  "/blog/girisimsel-radyoloji-nedir": {
+    "url": "/images/social/tr--blog--girisimsel-radyoloji-nedir.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Girişimsel Radyoloji Nedir? Tanı ve Tedavide Kullanımı",
+    "source": "/images/video-covers/XcmZVLOTQIs.jpg",
+    "pageTitle": "Girişimsel Radyoloji Nedir? Tanı ve Tedavide Kullanımı"
+  },
+  "/blog/kanser-taramasi-ve-tani": {
+    "url": "/images/social/tr--blog--kanser-taramasi-ve-tani.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Kanser Taraması ve Tanı: Görüntüleme ve Biyopsinin Rolü",
+    "source": "/images/video-covers/b3LKpmqd9zA.jpg",
+    "pageTitle": "Kanser Taraması ve Tanı: Görüntüleme ve Biyopsinin Rolü"
+  },
+  "/blog/ercan-kocakoc-medico-tv-soylesisi": {
+    "url": "/images/social/tr--blog--ercan-kocakoc-medico-tv-soylesisi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Prof. Dr. Ercan Kocakoç’un Medico TV Söyleşisi",
+    "source": "/images/video-covers/snUnd3uf-mI.jpg",
+    "pageTitle": "Prof. Dr. Ercan Kocakoç’un Medico TV Söyleşisi"
+  },
+  "/en": {
+    "url": "/images/social/en--home.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Interventional & abdominal radiology",
+    "source": "/images/portraits/ercan-kocakoc-transparent.webp",
+    "pageTitle": null
+  },
+  "/en/iletisim": {
+    "url": "/images/social/en--iletisim.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Contact & appointments",
+    "source": "/images/portraits/ercan-kocakoc-transparent.webp",
+    "pageTitle": null
+  },
+  "/en/gizlilik": {
+    "url": "/images/social/en--gizlilik.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Privacy",
+    "source": "/images/portraits/ercan-kocakoc-transparent.webp",
+    "pageTitle": null
+  },
+  "/en/blog": {
+    "url": "/images/social/en--blog.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Radiology articles & patient guides",
+    "source": "/images/licensed/ultrasound-scanner.webp",
+    "pageTitle": null
+  },
+  "/en/video-galeri": {
+    "url": "/images/social/en--video-galeri.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Radiology video library",
+    "source": "/images/responsive/clinic-16-800.webp",
+    "pageTitle": null
+  },
+  "/en/fotograf-galeri": {
+    "url": "/images/social/en--fotograf-galeri.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Photo gallery",
+    "source": "/images/responsive/clinic-06-800.webp",
+    "pageTitle": null
+  },
+  "/en/yayinlar": {
+    "url": "/images/social/en--yayinlar.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Scientific publications",
+    "source": "/images/edited/abdominal-radyoloji-book.webp",
+    "pageTitle": null
+  },
+  "/en/tezler": {
+    "url": "/images/social/en--tezler.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Theses & supervision",
+    "source": "/images/edited/abdominal-radyoloji-book.webp",
+    "pageTitle": null
+  },
+  "/en/biyopsi": {
+    "url": "/images/social/en--biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Image-guided biopsy",
+    "source": "/images/original/prostat-fuzyon-biyopsi.webp",
+    "pageTitle": "Image-guided biopsy"
+  },
+  "/en/tedaviler": {
+    "url": "/images/social/en--tedaviler.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Interventional treatments",
+    "source": "/images/original/karaciger-tumor-ablasyon-tedavisi.webp",
+    "pageTitle": "Interventional treatments"
+  },
+  "/en/ultrason-girisimsel-radyoloji": {
+    "url": "/images/social/en--ultrason-girisimsel-radyoloji.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Ultrasound",
+    "source": "/images/licensed/ultrasound-monitor.webp",
+    "pageTitle": "Ultrasound"
+  },
+  "/en/2-uzman-gorusu": {
+    "url": "/images/social/en--2-uzman-gorusu.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Second opinion",
+    "source": "/images/original/bobrek-ureme-sistemleri.webp",
+    "pageTitle": "Second opinion"
+  },
+  "/en/biyopsi/prostat-fuzyon-biyopsi": {
+    "url": "/images/social/en--biyopsi--prostat-fuzyon-biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Is MRI-Ultrasound Fusion Prostate Biopsy?",
+    "source": "/images/blog-covers/biyopsi--prostat-fuzyon-biyopsi.webp",
+    "pageTitle": "What Is MRI-Ultrasound Fusion Prostate Biopsy?"
+  },
+  "/en/biyopsi/pankreas-biyopsi": {
+    "url": "/images/social/en--biyopsi--pankreas-biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Is a Pancreatic Biopsy and How Is It Performed?",
+    "source": "/images/blog-covers/biyopsi--pankreas-biyopsi.webp",
+    "pageTitle": "What Is a Pancreatic Biopsy and How Is It Performed?"
+  },
+  "/en/biyopsi/meme-biyopsi": {
+    "url": "/images/social/en--biyopsi--meme-biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Is a Breast Biopsy and How Is It Performed?",
+    "source": "/images/blog-covers/biyopsi--meme-biyopsi.webp",
+    "pageTitle": "What Is a Breast Biopsy and How Is It Performed?"
+  },
+  "/en/biyopsi/lenf-bezi-biyopsi": {
+    "url": "/images/social/en--biyopsi--lenf-bezi-biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Is a Lymph Node Biopsy and How Is It Performed?",
+    "source": "/images/blog-covers/biyopsi--lenf-bezi-biyopsi.webp",
+    "pageTitle": "What Is a Lymph Node Biopsy and How Is It Performed?"
+  },
+  "/en/biyopsi/tiroid-biyopsi": {
+    "url": "/images/social/en--biyopsi--tiroid-biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Is a Thyroid Biopsy and How Is It Performed?",
+    "source": "/images/blog-covers/biyopsi--tiroid-biyopsi.webp",
+    "pageTitle": "What Is a Thyroid Biopsy and How Is It Performed?"
+  },
+  "/en/biyopsi/kemik-biyopsi": {
+    "url": "/images/social/en--biyopsi--kemik-biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Is a Bone Biopsy and How Is It Performed?",
+    "source": "/images/blog-covers/biyopsi--kemik-biyopsi.webp",
+    "pageTitle": "What Is a Bone Biopsy and How Is It Performed?"
+  },
+  "/en/biyopsi/akciger-biyopsi": {
+    "url": "/images/social/en--biyopsi--akciger-biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Is a Lung Biopsy and How Is It Performed?",
+    "source": "/images/blog-covers/biyopsi--akciger-biyopsi.webp",
+    "pageTitle": "What Is a Lung Biopsy and How Is It Performed?"
+  },
+  "/en/biyopsi/yumusak-doku-biyopsi": {
+    "url": "/images/social/en--biyopsi--yumusak-doku-biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Is a Soft Tissue Biopsy? Procedure and Preparation",
+    "source": "/images/blog-covers/biyopsi--yumusak-doku-biyopsi.webp",
+    "pageTitle": "What Is a Soft Tissue Biopsy? Procedure and Preparation"
+  },
+  "/en/biyopsi/karaciger-biyopsi": {
+    "url": "/images/social/en--biyopsi--karaciger-biyopsi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Is a Liver Biopsy? Procedure, Preparation and Follow-up",
+    "source": "/images/blog-covers/biyopsi--karaciger-biyopsi.webp",
+    "pageTitle": "What Is a Liver Biopsy? Procedure, Preparation and Follow-up"
+  },
+  "/en/tedaviler/karaciger-tumor-ablasyon-tedavisi": {
+    "url": "/images/social/en--tedaviler--karaciger-tumor-ablasyon-tedavisi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Is Liver Tumour Ablation? RF and Microwave Treatment",
+    "source": "/images/blog-covers/tedaviler--karaciger-tumor-ablasyon-tedavisi.webp",
+    "pageTitle": "What Is Liver Tumour Ablation? RF and Microwave Treatment"
+  },
+  "/en/tedaviler/kemoembolizasyon": {
+    "url": "/images/social/en--tedaviler--kemoembolizasyon.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Is Transarterial Chemoembolisation (TACE)?",
+    "source": "/images/blog-covers/tedaviler--kemoembolizasyon.webp",
+    "pageTitle": "What Is Transarterial Chemoembolisation (TACE)?"
+  },
+  "/en/tedaviler/diger-bolgelerdeki-tumor-embolizasyonu": {
+    "url": "/images/social/en--tedaviler--diger-bolgelerdeki-tumor-embolizasyonu.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Fibroid Embolisation and Embolisation of Other Tumours",
+    "source": "/images/blog-covers/tedaviler--diger-bolgelerdeki-tumor-embolizasyonu.webp",
+    "pageTitle": "Fibroid Embolisation and Embolisation of Other Tumours"
+  },
+  "/en/tedaviler/radyoembolizasyon-tedavisi": {
+    "url": "/images/social/en--tedaviler--radyoembolizasyon-tedavisi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Is Transarterial Radioembolisation (TARE)?",
+    "source": "/images/blog-covers/tedaviler--radyoembolizasyon-tedavisi.webp",
+    "pageTitle": "What Is Transarterial Radioembolisation (TARE)?"
+  },
+  "/en/tedaviler/perkutan-kolesistostomi": {
+    "url": "/images/social/en--tedaviler--perkutan-kolesistostomi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Is Percutaneous Cholecystostomy? Gallbladder Drainage",
+    "source": "/images/blog-covers/tedaviler--perkutan-kolesistostomi.webp",
+    "pageTitle": "What Is Percutaneous Cholecystostomy? Gallbladder Drainage"
+  },
+  "/en/ultrason-girisimsel-radyoloji/gebelik-ultrasonu": {
+    "url": "/images/social/en--ultrason-girisimsel-radyoloji--gebelik-ultrasonu.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "When and How Is a Pregnancy Ultrasound Performed?",
+    "source": "/images/blog-covers/ultrason--gebelik-ultrasonu.webp",
+    "pageTitle": "When and How Is a Pregnancy Ultrasound Performed?"
+  },
+  "/en/ultrason-girisimsel-radyoloji/karaciger-ultrasonu": {
+    "url": "/images/social/en--ultrason-girisimsel-radyoloji--karaciger-ultrasonu.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Does a Liver Ultrasound Show? Preparation and Examination",
+    "source": "/images/blog-covers/ultrason--karaciger-ultrasonu.webp",
+    "pageTitle": "What Does a Liver Ultrasound Show? Preparation and Examination"
+  },
+  "/en/ultrason-girisimsel-radyoloji/meme-ultrasonu": {
+    "url": "/images/social/en--ultrason-girisimsel-radyoloji--meme-ultrasonu.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Is a Breast Ultrasound? Procedure and Uses",
+    "source": "/images/blog-covers/ultrason--meme-ultrasonu.webp",
+    "pageTitle": "What Is a Breast Ultrasound? Procedure and Uses"
+  },
+  "/en/ultrason-girisimsel-radyoloji/karin-ultrasonu": {
+    "url": "/images/social/en--ultrason-girisimsel-radyoloji--karin-ultrasonu.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Is an Abdominal Ultrasound? Preparation and Examination",
+    "source": "/images/blog-covers/ultrason--karin-ultrasonu.webp",
+    "pageTitle": "What Is an Abdominal Ultrasound? Preparation and Examination"
+  },
+  "/en/ultrason-girisimsel-radyoloji/tiroid-ultrasonu": {
+    "url": "/images/social/en--ultrason-girisimsel-radyoloji--tiroid-ultrasonu.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Is a Thyroid Ultrasound? Nodule Assessment",
+    "source": "/images/blog-covers/ultrason--tiroid-ultrasonu.webp",
+    "pageTitle": "What Is a Thyroid Ultrasound? Nodule Assessment"
+  },
+  "/en/ultrason-girisimsel-radyoloji/uriner-sistem-ve-urogenital-ultrason": {
+    "url": "/images/social/en--ultrason-girisimsel-radyoloji--uriner-sistem-ve-urogenital-ultrason.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Urinary and Genitourinary Ultrasound: Organs Examined",
+    "source": "/images/blog-covers/ultrason--uriner-sistem-ve-urogenital-ultrason.webp",
+    "pageTitle": "Urinary and Genitourinary Ultrasound: Organs Examined"
+  },
+  "/en/2-uzman-gorusu/abdomen-karin-bolgesi-tanisal-2-gorus": {
+    "url": "/images/social/en--2-uzman-gorusu--abdomen-karin-bolgesi-tanisal-2-gorus.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Is a Radiology Second Opinion and When Is It Needed?",
+    "source": "/images/blog-covers/ikinci-gorus--abdomen-karin-bolgesi-tanisal-2-gorus.webp",
+    "pageTitle": "What Is a Radiology Second Opinion and When Is It Needed?"
+  },
+  "/en/2-uzman-gorusu/karin-bolgesi-radyolojisi": {
+    "url": "/images/social/en--2-uzman-gorusu--karin-bolgesi-radyolojisi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Is Abdominal Radiology? Imaging the Abdomen",
+    "source": "/images/blog-covers/ikinci-gorus--karin-bolgesi-radyolojisi.webp",
+    "pageTitle": "What Is Abdominal Radiology? Imaging the Abdomen"
+  },
+  "/en/2-uzman-gorusu/bobrek-ve-ureme-sistemi": {
+    "url": "/images/social/en--2-uzman-gorusu--bobrek-ve-ureme-sistemi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Genitourinary Radiology: Kidney and Reproductive System",
+    "source": "/images/blog-covers/ikinci-gorus--bobrek-ve-ureme-sistemi.webp",
+    "pageTitle": "Genitourinary Radiology: Kidney and Reproductive System"
+  },
+  "/en/hakkimda": {
+    "url": "/images/social/en--hakkimda.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Prof. Dr. Ercan Kocakoç",
+    "source": "/images/portraits/ercan-kocakoc-transparent.webp",
+    "pageTitle": "Prof. Dr. Ercan Kocakoç"
+  },
+  "/en/akademik-calismalar": {
+    "url": "/images/social/en--akademik-calismalar.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Academic work",
+    "source": "/images/edited/abdominal-radyoloji-book.webp",
+    "pageTitle": "Academic work"
+  },
+  "/en/blog/prostat-fuzyon-biyopsi-nedir": {
+    "url": "/images/social/en--blog--prostat-fuzyon-biyopsi-nedir.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Prostate Fusion Biopsy: How MRI and Ultrasound Work Together",
+    "source": "/images/blog-covers/blog--prostat-fuzyon-biyopsi-nedir.webp",
+    "pageTitle": "Prostate Fusion Biopsy: How MRI and Ultrasound Work Together"
+  },
+  "/en/blog/biyopsi-oncesi-hangi-sorulari-sormalisiniz": {
+    "url": "/images/social/en--blog--biyopsi-oncesi-hangi-sorulari-sormalisiniz.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Preparing for a Biopsy: Five Questions for Your Physician",
+    "source": "/images/blog-covers/blog--biyopsi-oncesi-hangi-sorulari-sormalisiniz.webp",
+    "pageTitle": "Preparing for a Biopsy: Five Questions for Your Physician"
+  },
+  "/en/blog/ultrason-randevusuna-hazirlik": {
+    "url": "/images/social/en--blog--ultrason-randevusuna-hazirlik.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Ultrasound Preparation: Is It the Same for Every Examination?",
+    "source": "/images/blog-covers/blog--ultrason-randevusuna-hazirlik.webp",
+    "pageTitle": "Ultrasound Preparation: Is It the Same for Every Examination?"
+  },
+  "/en/blog/ikinci-gorus-icin-goruntuler": {
+    "url": "/images/social/en--blog--ikinci-gorus-icin-goruntuler.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Images and Reports Needed for a Radiology Second Opinion",
+    "source": "/images/blog-covers/blog--ikinci-gorus-icin-goruntuler.webp",
+    "pageTitle": "Images and Reports Needed for a Radiology Second Opinion"
+  },
+  "/en/blog/girisimsel-radyoloji-nedir": {
+    "url": "/images/social/en--blog--girisimsel-radyoloji-nedir.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "What Is Interventional Radiology? Diagnosis and Treatment",
+    "source": "/images/video-covers/XcmZVLOTQIs.jpg",
+    "pageTitle": "What Is Interventional Radiology? Diagnosis and Treatment"
+  },
+  "/en/blog/kanser-taramasi-ve-tani": {
+    "url": "/images/social/en--blog--kanser-taramasi-ve-tani.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Cancer Screening and Diagnosis: Imaging and Biopsy",
+    "source": "/images/video-covers/b3LKpmqd9zA.jpg",
+    "pageTitle": "Cancer Screening and Diagnosis: Imaging and Biopsy"
+  },
+  "/en/blog/ercan-kocakoc-medico-tv-soylesisi": {
+    "url": "/images/social/en--blog--ercan-kocakoc-medico-tv-soylesisi.jpg",
+    "width": 1200,
+    "height": 630,
+    "title": "Prof. Dr. Ercan Kocakoç: Medico TV Interview",
+    "source": "/images/video-covers/snUnd3uf-mI.jpg",
+    "pageTitle": "Prof. Dr. Ercan Kocakoç: Medico TV Interview"
+  }
+}
